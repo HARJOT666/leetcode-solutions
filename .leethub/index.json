@@ -52,5 +52,23 @@
     "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "submissionId": "2083548634",
     "updatedAt": "2026-07-27T15:22:30.652Z"
+  },
+  {
+    "number": "0700",
+    "title": "Search in a Binary Search Tree",
+    "slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0700-search-in-a-binary-search-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "submissionId": "2083570083",
+    "updatedAt": "2026-07-27T15:38:36.506Z"
   }
 ]
