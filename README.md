@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 4
+- **Total solved:** 5
 - **Easy:** 2
-- **Medium:** 2
+- **Medium:** 3
 - **Hard:** 0
 
 ## Problems
@@ -16,4 +16,5 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
+| 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |

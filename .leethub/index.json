@@ -70,5 +70,24 @@
     "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
     "submissionId": "2083570083",
     "updatedAt": "2026-07-27T15:38:36.506Z"
+  },
+  {
+    "number": "0513",
+    "title": "Find Bottom Left Tree Value",
+    "slug": "find-bottom-left-tree-value",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0513-find-bottom-left-tree-value",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+    "submissionId": "2083627232",
+    "updatedAt": "2026-07-27T16:18:29.148Z"
   }
 ]
