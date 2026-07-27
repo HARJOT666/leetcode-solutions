@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 1
+- **Total solved:** 2
 - **Easy:** 1
-- **Medium:** 0
+- **Medium:** 1
 - **Hard:** 0
 
 ## Problems
@@ -14,3 +14,4 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|------------|----------|----------|
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
+| 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |

@@ -14,5 +14,24 @@
     "url": "https://leetcode.com/problems/palindrome-number/",
     "submissionId": "2083212800",
     "updatedAt": "2026-07-27T10:37:25.612Z"
+  },
+  {
+    "number": "0098",
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0098-validate-binary-search-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "submissionId": "2083528680",
+    "updatedAt": "2026-07-27T15:07:12.611Z"
   }
 ]
