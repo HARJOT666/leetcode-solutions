@@ -1,0 +1,18 @@
+[
+  {
+    "number": "0009",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0009-palindrome-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/palindrome-number/",
+    "submissionId": "2083212800",
+    "updatedAt": "2026-07-27T10:37:25.612Z"
+  }
+]
