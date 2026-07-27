@@ -33,5 +33,24 @@
     "url": "https://leetcode.com/problems/validate-binary-search-tree/",
     "submissionId": "2083528680",
     "updatedAt": "2026-07-27T15:07:12.611Z"
+  },
+  {
+    "number": "0199",
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0199-binary-tree-right-side-view",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "submissionId": "2083548634",
+    "updatedAt": "2026-07-27T15:22:30.652Z"
   }
 ]
