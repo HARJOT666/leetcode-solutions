@@ -108,5 +108,24 @@
     "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
     "submissionId": "2084553361",
     "updatedAt": "2026-07-28T09:42:30.968Z"
+  },
+  {
+    "number": "0235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "submissionId": "2084571398",
+    "updatedAt": "2026-07-28T09:55:56.384Z"
   }
 ]
