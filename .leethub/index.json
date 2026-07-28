@@ -168,5 +168,24 @@
     "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
     "submissionId": "2084953944",
     "updatedAt": "2026-07-28T15:23:45.458Z"
+  },
+  {
+    "number": "0993",
+    "title": "Cousins in Binary Tree",
+    "slug": "cousins-in-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0993-cousins-in-binary-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/cousins-in-binary-tree/",
+    "submissionId": "2085290583",
+    "updatedAt": "2026-07-28T19:26:42.889Z"
   }
 ]
