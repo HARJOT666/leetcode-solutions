@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 7
+- **Total solved:** 8
 - **Easy:** 2
-- **Medium:** 5
+- **Medium:** 6
 - **Hard:** 0
 
 ## Problems
@@ -20,3 +20,4 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |

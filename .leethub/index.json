@@ -127,5 +127,26 @@
     "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
     "submissionId": "2084571398",
     "updatedAt": "2026-07-28T09:55:56.384Z"
+  },
+  {
+    "number": "1008",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "slug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Stack",
+      "Tree",
+      "Binary Search Tree",
+      "Monotonic Stack",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1008-construct-binary-search-tree-from-preorder-traversal",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "submissionId": "2084622358",
+    "updatedAt": "2026-07-28T10:35:59.414Z"
   }
 ]
