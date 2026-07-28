@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 10
+- **Total solved:** 11
 - **Easy:** 4
-- **Medium:** 6
+- **Medium:** 7
 - **Hard:** 0
 
 ## Problems
@@ -23,3 +23,4 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
+| 1305 | [All Elements in Two Binary Search Trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | Java | [Solution](./1305-all-elements-in-two-binary-search-trees/Solution.java) |

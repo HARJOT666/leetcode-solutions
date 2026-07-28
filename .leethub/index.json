@@ -187,5 +187,25 @@
     "url": "https://leetcode.com/problems/cousins-in-binary-tree/",
     "submissionId": "2085290583",
     "updatedAt": "2026-07-28T19:26:42.889Z"
+  },
+  {
+    "number": "1305",
+    "title": "All Elements in Two Binary Search Trees",
+    "slug": "all-elements-in-two-binary-search-trees",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1305-all-elements-in-two-binary-search-trees",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/",
+    "submissionId": "2085304620",
+    "updatedAt": "2026-07-28T19:44:50.860Z"
   }
 ]
