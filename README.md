@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 13
+- **Total solved:** 14
 - **Easy:** 5
-- **Medium:** 8
+- **Medium:** 9
 - **Hard:** 0
 
 ## Problems
@@ -23,6 +23,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
+| 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
 | 1305 | [All Elements in Two Binary Search Trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | Java | [Solution](./1305-all-elements-in-two-binary-search-trees/Solution.java) |

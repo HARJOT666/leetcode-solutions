@@ -246,5 +246,23 @@
     "url": "https://leetcode.com/problems/binary-tree-paths/",
     "submissionId": "2088689383",
     "updatedAt": "2026-07-31T10:38:53.536Z"
+  },
+  {
+    "number": "0814",
+    "title": "Binary Tree Pruning",
+    "slug": "binary-tree-pruning",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0814-binary-tree-pruning",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/binary-tree-pruning/",
+    "submissionId": "2088706681",
+    "updatedAt": "2026-07-31T10:56:23.729Z"
   }
 ]
