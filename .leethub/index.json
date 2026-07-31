@@ -264,5 +264,25 @@
     "url": "https://leetcode.com/problems/binary-tree-pruning/",
     "submissionId": "2088706681",
     "updatedAt": "2026-07-31T10:56:23.729Z"
+  },
+  {
+    "number": "0897",
+    "title": "Increasing Order Search Tree",
+    "slug": "increasing-order-search-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0897-increasing-order-search-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/increasing-order-search-tree/",
+    "submissionId": "2088970785",
+    "updatedAt": "2026-07-31T15:30:15.300Z"
   }
 ]
