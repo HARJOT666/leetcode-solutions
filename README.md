@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 12
-- **Easy:** 4
+- **Total solved:** 13
+- **Easy:** 5
 - **Medium:** 8
 - **Hard:** 0
 
@@ -19,6 +19,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |
 | 0230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst/README.md) | Medium | Java | [Solution](./0230-kth-smallest-element-in-a-bst/Solution.java) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
+| 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
