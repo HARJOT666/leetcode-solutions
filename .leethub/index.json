@@ -302,5 +302,25 @@
     "url": "https://leetcode.com/problems/binary-tree-tilt/",
     "submissionId": "2090484714",
     "updatedAt": "2026-08-01T18:56:53.634Z"
+  },
+  {
+    "number": "0572",
+    "title": "Subtree of Another Tree",
+    "slug": "subtree-of-another-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0572-subtree-of-another-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "submissionId": "2090525431",
+    "updatedAt": "2026-08-01T19:51:25.771Z"
   }
 ]
