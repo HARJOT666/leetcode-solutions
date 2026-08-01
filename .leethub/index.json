@@ -284,5 +284,23 @@
     "url": "https://leetcode.com/problems/increasing-order-search-tree/",
     "submissionId": "2088970785",
     "updatedAt": "2026-07-31T15:30:15.300Z"
+  },
+  {
+    "number": "0563",
+    "title": "Binary Tree Tilt",
+    "slug": "binary-tree-tilt",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0563-binary-tree-tilt",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/binary-tree-tilt/",
+    "submissionId": "2090484714",
+    "updatedAt": "2026-08-01T18:56:53.634Z"
   }
 ]
