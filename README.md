@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 19
+- **Total solved:** 20
 - **Easy:** 8
-- **Medium:** 11
+- **Medium:** 12
 - **Hard:** 0
 
 ## Problems
@@ -26,6 +26,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
+| 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
