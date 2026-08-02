@@ -322,5 +322,24 @@
     "url": "https://leetcode.com/problems/subtree-of-another-tree/",
     "submissionId": "2090525431",
     "updatedAt": "2026-08-01T19:51:25.771Z"
+  },
+  {
+    "number": "0204",
+    "title": "Count Primes",
+    "slug": "count-primes",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0204-count-primes",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/count-primes/",
+    "submissionId": "2091153803",
+    "updatedAt": "2026-08-02T09:23:54.560Z"
   }
 ]

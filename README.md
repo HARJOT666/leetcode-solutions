@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 17
+- **Total solved:** 18
 - **Easy:** 8
-- **Medium:** 9
+- **Medium:** 10
 - **Hard:** 0
 
 ## Problems
@@ -16,6 +16,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
+| 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |
 | 0230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst/README.md) | Medium | Java | [Solution](./0230-kth-smallest-element-in-a-bst/Solution.java) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
