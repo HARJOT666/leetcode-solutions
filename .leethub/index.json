@@ -400,5 +400,24 @@
     "url": "https://leetcode.com/problems/design-hashset/",
     "submissionId": "2113080650",
     "updatedAt": "2026-08-19T18:01:27.742Z"
+  },
+  {
+    "number": "0416",
+    "title": "Partition Equal Subset Sum",
+    "slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0416-partition-equal-subset-sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "submissionId": "2113120519",
+    "updatedAt": "2026-08-19T18:29:29.292Z"
   }
 ]
