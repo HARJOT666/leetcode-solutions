@@ -380,5 +380,25 @@
     "url": "https://leetcode.com/problems/maximum-binary-tree/",
     "submissionId": "2091865232",
     "updatedAt": "2026-08-02T20:28:52.359Z"
+  },
+  {
+    "number": "0705",
+    "title": "Design HashSet",
+    "slug": "design-hashset",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0705-design-hashset",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/design-hashset/",
+    "submissionId": "2113080650",
+    "updatedAt": "2026-08-19T18:01:27.742Z"
   }
 ]
