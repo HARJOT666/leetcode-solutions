@@ -439,5 +439,22 @@
     "url": "https://leetcode.com/problems/coin-change/",
     "submissionId": "2113758701",
     "updatedAt": "2026-08-20T09:40:25.706Z"
+  },
+  {
+    "number": "1312",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "difficulty": "Hard",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1312-minimum-insertion-steps-to-make-a-string-palindrome",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+    "submissionId": "2115064514",
+    "updatedAt": "2026-08-21T13:06:46.867Z"
   }
 ]
