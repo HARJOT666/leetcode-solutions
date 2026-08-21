@@ -475,5 +475,23 @@
     "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
     "submissionId": "2115070918",
     "updatedAt": "2026-08-21T13:14:11.439Z"
+  },
+  {
+    "number": "1143",
+    "title": "Longest Common Subsequence",
+    "slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1143-longest-common-subsequence",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "submissionId": "2115074246",
+    "updatedAt": "2026-08-21T13:17:57.189Z"
   }
 ]
