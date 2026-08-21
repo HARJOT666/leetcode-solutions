@@ -456,5 +456,24 @@
     "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
     "submissionId": "2115064514",
     "updatedAt": "2026-08-21T13:06:46.867Z"
+  },
+  {
+    "number": "1541",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1541-minimum-insertions-to-balance-a-parentheses-string",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+    "submissionId": "2115070918",
+    "updatedAt": "2026-08-21T13:14:11.439Z"
   }
 ]
