@@ -582,5 +582,21 @@
     "url": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
     "submissionId": "2115966991",
     "updatedAt": "2026-08-22T09:38:46.876Z"
+  },
+  {
+    "number": "0521",
+    "title": "Longest Uncommon Subsequence I",
+    "slug": "longest-uncommon-subsequence-i",
+    "difficulty": "Easy",
+    "topics": [
+      "String"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0521-longest-uncommon-subsequence-i",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/",
+    "submissionId": "2115973157",
+    "updatedAt": "2026-08-22T09:45:25.089Z"
   }
 ]
