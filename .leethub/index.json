@@ -564,5 +564,23 @@
     "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
     "submissionId": "2115823815",
     "updatedAt": "2026-08-22T06:56:03.850Z"
+  },
+  {
+    "number": "0712",
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "slug": "minimum-ascii-delete-sum-for-two-strings",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0712-minimum-ascii-delete-sum-for-two-strings",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+    "submissionId": "2115966991",
+    "updatedAt": "2026-08-22T09:38:46.876Z"
   }
 ]
