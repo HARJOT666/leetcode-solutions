@@ -4,10 +4,10 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 32
+- **Total solved:** 33
 - **Easy:** 11
 - **Medium:** 20
-- **Hard:** 1
+- **Hard:** 2
 
 ## Problems
 
@@ -16,6 +16,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |
+| 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |

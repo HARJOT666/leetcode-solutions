@@ -598,5 +598,22 @@
     "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/",
     "submissionId": "2115973157",
     "updatedAt": "2026-08-22T09:45:25.089Z"
+  },
+  {
+    "number": "0115",
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0115-distinct-subsequences",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/distinct-subsequences/",
+    "submissionId": "2116010749",
+    "updatedAt": "2026-08-22T10:25:04.627Z"
   }
 ]
