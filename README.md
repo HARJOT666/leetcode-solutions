@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 27
+- **Total solved:** 28
 - **Easy:** 10
-- **Medium:** 16
+- **Medium:** 17
 - **Hard:** 1
 
 ## Problems
@@ -36,6 +36,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
+| 1035 | [Uncrossed Lines](./1035-uncrossed-lines/README.md) | Medium | Java | [Solution](./1035-uncrossed-lines/Solution.java) |
 | 1143 | [Longest Common Subsequence](./1143-longest-common-subsequence/README.md) | Medium | Java | [Solution](./1143-longest-common-subsequence/Solution.java) |
 | 1305 | [All Elements in Two Binary Search Trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | Java | [Solution](./1305-all-elements-in-two-binary-search-trees/Solution.java) |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md) | Hard | Java | [Solution](./1312-minimum-insertion-steps-to-make-a-string-palindrome/Solution.java) |

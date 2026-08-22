@@ -511,5 +511,23 @@
     "url": "https://leetcode.com/problems/is-subsequence/",
     "submissionId": "2115758809",
     "updatedAt": "2026-08-22T05:55:34.596Z"
+  },
+  {
+    "number": "1035",
+    "title": "Uncrossed Lines",
+    "slug": "uncrossed-lines",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1035-uncrossed-lines",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/uncrossed-lines/",
+    "submissionId": "2115810168",
+    "updatedAt": "2026-08-22T06:43:11.498Z"
   }
 ]
