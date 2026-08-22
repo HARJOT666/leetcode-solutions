@@ -493,5 +493,23 @@
     "url": "https://leetcode.com/problems/longest-common-subsequence/",
     "submissionId": "2115074246",
     "updatedAt": "2026-08-21T13:17:57.189Z"
+  },
+  {
+    "number": "0392",
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0392-is-subsequence",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/is-subsequence/",
+    "submissionId": "2115758809",
+    "updatedAt": "2026-08-22T05:55:34.596Z"
   }
 ]

@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 26
-- **Easy:** 9
+- **Total solved:** 27
+- **Easy:** 10
 - **Medium:** 16
 - **Hard:** 1
 
@@ -23,6 +23,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
 | 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
+| 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
