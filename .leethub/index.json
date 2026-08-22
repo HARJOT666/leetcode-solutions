@@ -615,5 +615,22 @@
     "url": "https://leetcode.com/problems/distinct-subsequences/",
     "submissionId": "2116010749",
     "updatedAt": "2026-08-22T10:25:04.627Z"
+  },
+  {
+    "number": "0072",
+    "title": "Edit Distance",
+    "slug": "edit-distance",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0072-edit-distance",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/edit-distance/",
+    "submissionId": "2116022941",
+    "updatedAt": "2026-08-22T10:38:04.359Z"
   }
 ]
