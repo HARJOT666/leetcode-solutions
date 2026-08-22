@@ -529,5 +529,23 @@
     "url": "https://leetcode.com/problems/uncrossed-lines/",
     "submissionId": "2115810168",
     "updatedAt": "2026-08-22T06:43:11.498Z"
+  },
+  {
+    "number": "0583",
+    "title": "Delete Operation for Two Strings",
+    "slug": "delete-operation-for-two-strings",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0583-delete-operation-for-two-strings",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+    "submissionId": "2115817730",
+    "updatedAt": "2026-08-22T06:50:12.920Z"
   }
 ]

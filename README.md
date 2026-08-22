@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 28
+- **Total solved:** 29
 - **Easy:** 10
-- **Medium:** 17
+- **Medium:** 18
 - **Hard:** 1
 
 ## Problems
@@ -29,6 +29,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
+| 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0705 | [Design HashSet](./0705-design-hashset/README.md) | Easy | Java | [Solution](./0705-design-hashset/Solution.java) |
