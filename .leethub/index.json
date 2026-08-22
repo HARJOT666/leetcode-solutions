@@ -547,5 +547,22 @@
     "url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
     "submissionId": "2115817730",
     "updatedAt": "2026-08-22T06:50:12.920Z"
+  },
+  {
+    "number": "0516",
+    "title": "Longest Palindromic Subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0516-longest-palindromic-subsequence",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "submissionId": "2115823815",
+    "updatedAt": "2026-08-22T06:56:03.850Z"
   }
 ]
