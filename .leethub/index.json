@@ -632,5 +632,24 @@
     "url": "https://leetcode.com/problems/edit-distance/",
     "submissionId": "2116022941",
     "updatedAt": "2026-08-22T10:38:04.359Z"
+  },
+  {
+    "number": "0543",
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0543-diameter-of-binary-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "submissionId": "2117182846",
+    "updatedAt": "2026-08-23T09:50:35.369Z"
   }
 ]

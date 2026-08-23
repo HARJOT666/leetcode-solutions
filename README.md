@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 34
-- **Easy:** 11
+- **Total solved:** 35
+- **Easy:** 12
 - **Medium:** 21
 - **Hard:** 2
 
@@ -31,6 +31,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence/README.md) | Medium | Java | [Solution](./0516-longest-palindromic-subsequence/Solution.java) |
 | 0521 | [Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i/README.md) | Easy | Java | [Solution](./0521-longest-uncommon-subsequence-i/Solution.java) |
 | 0530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst/README.md) | Easy | Java | [Solution](./0530-minimum-absolute-difference-in-bst/Solution.java) |
+| 0543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree/README.md) | Easy | Java | [Solution](./0543-diameter-of-binary-tree/Solution.java) |
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
