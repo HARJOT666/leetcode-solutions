@@ -651,5 +651,25 @@
     "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "submissionId": "2117182846",
     "updatedAt": "2026-08-23T09:50:35.369Z"
+  },
+  {
+    "number": "0124",
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0124-binary-tree-maximum-path-sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "submissionId": "2117194929",
+    "updatedAt": "2026-08-23T10:04:33.337Z"
   }
 ]
