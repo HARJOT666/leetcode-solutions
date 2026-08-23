@@ -708,5 +708,28 @@
     "url": "https://leetcode.com/problems/last-stone-weight/",
     "submissionId": "2117339994",
     "updatedAt": "2026-08-23T12:45:13.344Z"
+  },
+  {
+    "number": "0973",
+    "title": "K Closest Points to Origin",
+    "slug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect",
+      "K-D Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0973-k-closest-points-to-origin",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "submissionId": "2117380682",
+    "updatedAt": "2026-08-23T13:27:40.440Z"
   }
 ]

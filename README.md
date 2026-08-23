@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 38
+- **Total solved:** 39
 - **Easy:** 13
-- **Medium:** 22
+- **Medium:** 23
 - **Hard:** 3
 
 ## Problems
@@ -43,6 +43,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings/README.md) | Medium | Java | [Solution](./0712-minimum-ascii-delete-sum-for-two-strings/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
+| 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
 | 1035 | [Uncrossed Lines](./1035-uncrossed-lines/README.md) | Medium | Java | [Solution](./1035-uncrossed-lines/Solution.java) |
