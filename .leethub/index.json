@@ -691,5 +691,22 @@
     "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
     "submissionId": "2117241159",
     "updatedAt": "2026-08-23T10:54:48.177Z"
+  },
+  {
+    "number": "1046",
+    "title": "Last Stone Weight",
+    "slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1046-last-stone-weight",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/last-stone-weight/",
+    "submissionId": "2117339994",
+    "updatedAt": "2026-08-23T12:45:13.344Z"
   }
 ]
