@@ -671,5 +671,25 @@
     "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
     "submissionId": "2117194929",
     "updatedAt": "2026-08-23T10:04:33.337Z"
+  },
+  {
+    "number": "0215",
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0215-kth-largest-element-in-an-array",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "submissionId": "2117241159",
+    "updatedAt": "2026-08-23T10:54:48.177Z"
   }
 ]
