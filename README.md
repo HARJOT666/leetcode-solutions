@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 42
+- **Total solved:** 43
 - **Easy:** 15
-- **Medium:** 24
+- **Medium:** 25
 - **Hard:** 3
 
 ## Problems
@@ -14,6 +14,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|------------|----------|----------|
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
+| 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |

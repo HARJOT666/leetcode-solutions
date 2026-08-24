@@ -785,5 +785,24 @@
     "url": "https://leetcode.com/problems/valid-anagram/",
     "submissionId": "2118534755",
     "updatedAt": "2026-08-24T14:27:15.373Z"
+  },
+  {
+    "number": "0049",
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0049-group-anagrams",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/group-anagrams/",
+    "submissionId": "2118554773",
+    "updatedAt": "2026-08-24T14:44:26.284Z"
   }
 ]
