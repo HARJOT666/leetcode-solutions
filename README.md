@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 43
+- **Total solved:** 44
 - **Easy:** 15
-- **Medium:** 25
+- **Medium:** 26
 - **Hard:** 3
 
 ## Problems
@@ -15,6 +15,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 |---|-------|------------|----------|----------|
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
+| 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |
