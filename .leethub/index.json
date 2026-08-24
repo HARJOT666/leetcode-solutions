@@ -767,5 +767,23 @@
     "url": "https://leetcode.com/problems/happy-number/",
     "submissionId": "2118459826",
     "updatedAt": "2026-08-24T13:22:11.826Z"
+  },
+  {
+    "number": "0242",
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0242-valid-anagram",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "submissionId": "2118534755",
+    "updatedAt": "2026-08-24T14:27:15.373Z"
   }
 ]

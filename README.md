@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 41
-- **Easy:** 14
+- **Total solved:** 42
+- **Easy:** 15
 - **Medium:** 24
 - **Hard:** 3
 
@@ -27,6 +27,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |
 | 0230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst/README.md) | Medium | Java | [Solution](./0230-kth-smallest-element-in-a-bst/Solution.java) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
+| 0242 | [Valid Anagram](./0242-valid-anagram/README.md) | Easy | Java | [Solution](./0242-valid-anagram/Solution.java) |
 | 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
