@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 40
-- **Easy:** 13
+- **Total solved:** 41
+- **Easy:** 14
 - **Medium:** 24
 - **Hard:** 3
 
@@ -20,6 +20,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
+| 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
 | 0215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array/README.md) | Medium | Java | [Solution](./0215-kth-largest-element-in-an-array/Solution.java) |

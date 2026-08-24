@@ -748,5 +748,24 @@
     "url": "https://leetcode.com/problems/house-robber-ii/",
     "submissionId": "2118438993",
     "updatedAt": "2026-08-24T13:01:38.267Z"
+  },
+  {
+    "number": "0202",
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0202-happy-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/happy-number/",
+    "submissionId": "2118459826",
+    "updatedAt": "2026-08-24T13:22:11.826Z"
   }
 ]
