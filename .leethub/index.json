@@ -731,5 +731,22 @@
     "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
     "submissionId": "2117380682",
     "updatedAt": "2026-08-23T13:27:40.440Z"
+  },
+  {
+    "number": "0213",
+    "title": "House Robber II",
+    "slug": "house-robber-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0213-house-robber-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/house-robber-ii/",
+    "submissionId": "2118438993",
+    "updatedAt": "2026-08-24T13:01:38.267Z"
   }
 ]
