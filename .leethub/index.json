@@ -855,5 +855,23 @@
     "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
     "submissionId": "2120973913",
     "updatedAt": "2026-08-26T15:40:52.828Z"
+  },
+  {
+    "number": "0020",
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0020-valid-parentheses",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "submissionId": "2121009197",
+    "updatedAt": "2026-08-26T16:13:54.862Z"
   }
 ]
