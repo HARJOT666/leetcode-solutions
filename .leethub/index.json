@@ -890,5 +890,23 @@
     "url": "https://leetcode.com/problems/min-stack/",
     "submissionId": "2121042523",
     "updatedAt": "2026-08-26T16:42:05.951Z"
+  },
+  {
+    "number": "0739",
+    "title": "Daily Temperatures",
+    "slug": "daily-temperatures",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0739-daily-temperatures",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/daily-temperatures/",
+    "submissionId": "2121264784",
+    "updatedAt": "2026-08-26T20:13:59.651Z"
   }
 ]
