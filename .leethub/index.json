@@ -908,5 +908,22 @@
     "url": "https://leetcode.com/problems/daily-temperatures/",
     "submissionId": "2121264784",
     "updatedAt": "2026-08-26T20:13:59.651Z"
+  },
+  {
+    "number": "0121",
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0121-best-time-to-buy-and-sell-stock",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "submissionId": "2121276316",
+    "updatedAt": "2026-08-26T20:34:52.562Z"
   }
 ]
