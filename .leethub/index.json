@@ -838,5 +838,22 @@
     "url": "https://leetcode.com/problems/container-with-most-water/",
     "submissionId": "2119863203",
     "updatedAt": "2026-08-25T16:07:49.424Z"
+  },
+  {
+    "number": "0746",
+    "title": "Min Cost Climbing Stairs",
+    "slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0746-min-cost-climbing-stairs",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "submissionId": "2120973913",
+    "updatedAt": "2026-08-26T15:40:52.828Z"
   }
 ]
