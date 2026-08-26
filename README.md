@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 47
+- **Total solved:** 48
 - **Easy:** 17
-- **Medium:** 27
+- **Medium:** 28
 - **Hard:** 3
 
 ## Problems
@@ -23,6 +23,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |
 | 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
+| 0155 | [Min Stack](./0155-min-stack/README.md) | Medium | Java | [Solution](./0155-min-stack/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |

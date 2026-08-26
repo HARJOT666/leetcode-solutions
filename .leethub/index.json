@@ -873,5 +873,22 @@
     "url": "https://leetcode.com/problems/valid-parentheses/",
     "submissionId": "2121009197",
     "updatedAt": "2026-08-26T16:13:54.862Z"
+  },
+  {
+    "number": "0155",
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0155-min-stack",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/min-stack/",
+    "submissionId": "2121042523",
+    "updatedAt": "2026-08-26T16:42:05.951Z"
   }
 ]
