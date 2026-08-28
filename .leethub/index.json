@@ -925,5 +925,22 @@
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "submissionId": "2121276316",
     "updatedAt": "2026-08-26T20:34:52.562Z"
+  },
+  {
+    "number": "0001",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0001-two-sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/two-sum/",
+    "submissionId": "2122741962",
+    "updatedAt": "2026-08-28T09:32:09.342Z"
   }
 ]

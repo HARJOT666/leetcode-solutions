@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 50
-- **Easy:** 18
+- **Total solved:** 51
+- **Easy:** 19
 - **Medium:** 29
 - **Hard:** 3
 
@@ -13,6 +13,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|------------|----------|----------|
+| 0001 | [Two Sum](./0001-two-sum/README.md) | Easy | Java | [Solution](./0001-two-sum/Solution.java) |
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0011 | [Container With Most Water](./0011-container-with-most-water/README.md) | Medium | Java | [Solution](./0011-container-with-most-water/Solution.java) |
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
