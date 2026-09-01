@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 55
+- **Total solved:** 56
 - **Easy:** 20
-- **Medium:** 32
+- **Medium:** 33
 - **Hard:** 3
 
 ## Problems
@@ -61,6 +61,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
+| 0994 | [Rotting Oranges](./0994-rotting-oranges/README.md) | Medium | Java | [Solution](./0994-rotting-oranges/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
 | 1035 | [Uncrossed Lines](./1035-uncrossed-lines/README.md) | Medium | Java | [Solution](./1035-uncrossed-lines/Solution.java) |
 | 1046 | [Last Stone Weight](./1046-last-stone-weight/README.md) | Easy | Java | [Solution](./1046-last-stone-weight/Solution.java) |

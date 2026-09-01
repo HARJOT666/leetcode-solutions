@@ -1020,5 +1020,23 @@
     "url": "https://leetcode.com/problems/flood-fill/",
     "submissionId": "2126982859",
     "updatedAt": "2026-09-01T08:14:51.675Z"
+  },
+  {
+    "number": "0994",
+    "title": "Rotting Oranges",
+    "slug": "rotting-oranges",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0994-rotting-oranges",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/rotting-oranges/",
+    "submissionId": "2127006023",
+    "updatedAt": "2026-09-01T08:45:02.602Z"
   }
 ]
