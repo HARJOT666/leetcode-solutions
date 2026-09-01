@@ -981,5 +981,25 @@
     "url": "https://leetcode.com/problems/number-of-islands/",
     "submissionId": "2126908549",
     "updatedAt": "2026-09-01T06:41:55.303Z"
+  },
+  {
+    "number": "0695",
+    "title": "Max Area of Island",
+    "slug": "max-area-of-island",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0695-max-area-of-island",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/max-area-of-island/",
+    "submissionId": "2126913777",
+    "updatedAt": "2026-09-01T06:47:08.370Z"
   }
 ]

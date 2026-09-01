@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 53
+- **Total solved:** 54
 - **Easy:** 19
-- **Medium:** 31
+- **Medium:** 32
 - **Hard:** 3
 
 ## Problems
@@ -50,6 +50,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
+| 0695 | [Max Area of Island](./0695-max-area-of-island/README.md) | Medium | Java | [Solution](./0695-max-area-of-island/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0705 | [Design HashSet](./0705-design-hashset/README.md) | Easy | Java | [Solution](./0705-design-hashset/Solution.java) |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings/README.md) | Medium | Java | [Solution](./0712-minimum-ascii-delete-sum-for-two-strings/Solution.java) |
