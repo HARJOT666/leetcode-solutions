@@ -942,5 +942,24 @@
     "url": "https://leetcode.com/problems/two-sum/",
     "submissionId": "2122741962",
     "updatedAt": "2026-08-28T09:32:09.342Z"
+  },
+  {
+    "number": "0547",
+    "title": "Number of Provinces",
+    "slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0547-number-of-provinces",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/number-of-provinces/",
+    "submissionId": "2126871678",
+    "updatedAt": "2026-09-01T06:05:36.582Z"
   }
 ]
