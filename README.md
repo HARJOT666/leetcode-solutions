@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 54
-- **Easy:** 19
+- **Total solved:** 55
+- **Easy:** 20
 - **Medium:** 32
 - **Hard:** 3
 
@@ -54,6 +54,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0705 | [Design HashSet](./0705-design-hashset/README.md) | Easy | Java | [Solution](./0705-design-hashset/Solution.java) |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings/README.md) | Medium | Java | [Solution](./0712-minimum-ascii-delete-sum-for-two-strings/Solution.java) |
+| 0733 | [Flood Fill](./0733-flood-fill/README.md) | Easy | Java | [Solution](./0733-flood-fill/Solution.java) |
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
 | 0746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | Easy | Java | [Solution](./0746-min-cost-climbing-stairs/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
