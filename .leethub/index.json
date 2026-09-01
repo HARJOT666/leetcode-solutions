@@ -961,5 +961,25 @@
     "url": "https://leetcode.com/problems/number-of-provinces/",
     "submissionId": "2126871678",
     "updatedAt": "2026-09-01T06:05:36.582Z"
+  },
+  {
+    "number": "0200",
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0200-number-of-islands",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/number-of-islands/",
+    "submissionId": "2126908549",
+    "updatedAt": "2026-09-01T06:41:55.303Z"
   }
 ]

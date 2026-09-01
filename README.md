@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 52
+- **Total solved:** 53
 - **Easy:** 19
-- **Medium:** 30
+- **Medium:** 31
 - **Hard:** 3
 
 ## Problems
@@ -27,6 +27,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
 | 0155 | [Min Stack](./0155-min-stack/README.md) | Medium | Java | [Solution](./0155-min-stack/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
+| 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
