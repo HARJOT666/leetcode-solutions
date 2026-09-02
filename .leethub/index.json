@@ -1118,5 +1118,24 @@
     "url": "https://leetcode.com/problems/is-graph-bipartite/",
     "submissionId": "2128345963",
     "updatedAt": "2026-09-02T11:02:53.114Z"
+  },
+  {
+    "number": "1971",
+    "title": "Find if Path Exists in Graph",
+    "slug": "find-if-path-exists-in-graph",
+    "difficulty": "Easy",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1971-find-if-path-exists-in-graph",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+    "submissionId": "2128397202",
+    "updatedAt": "2026-09-02T12:06:29.773Z"
   }
 ]

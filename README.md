@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 60
-- **Easy:** 20
+- **Total solved:** 61
+- **Easy:** 21
 - **Medium:** 37
 - **Hard:** 3
 
@@ -73,3 +73,4 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 1305 | [All Elements in Two Binary Search Trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | Java | [Solution](./1305-all-elements-in-two-binary-search-trees/Solution.java) |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md) | Hard | Java | [Solution](./1312-minimum-insertion-steps-to-make-a-string-palindrome/Solution.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/README.md) | Medium | Java | [Solution](./1541-minimum-insertions-to-balance-a-parentheses-string/Solution.java) |
+| 1971 | [Find if Path Exists in Graph](./1971-find-if-path-exists-in-graph/README.md) | Easy | Java | [Solution](./1971-find-if-path-exists-in-graph/Solution.java) |
