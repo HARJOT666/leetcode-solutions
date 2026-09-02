@@ -1038,5 +1038,24 @@
     "url": "https://leetcode.com/problems/rotting-oranges/",
     "submissionId": "2127006023",
     "updatedAt": "2026-09-01T08:45:02.602Z"
+  },
+  {
+    "number": "0542",
+    "title": "01 Matrix",
+    "slug": "01-matrix",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0542-01-matrix",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/01-matrix/",
+    "submissionId": "2128234552",
+    "updatedAt": "2026-09-02T09:06:47.945Z"
   }
 ]
