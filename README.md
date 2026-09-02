@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 59
+- **Total solved:** 60
 - **Easy:** 20
-- **Medium:** 36
+- **Medium:** 37
 - **Hard:** 3
 
 ## Problems
@@ -59,6 +59,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0733 | [Flood Fill](./0733-flood-fill/README.md) | Easy | Java | [Solution](./0733-flood-fill/Solution.java) |
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
 | 0746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | Easy | Java | [Solution](./0746-min-cost-climbing-stairs/Solution.java) |
+| 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |

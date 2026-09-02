@@ -1097,5 +1097,26 @@
     "url": "https://leetcode.com/problems/number-of-enclaves/",
     "submissionId": "2128302996",
     "updatedAt": "2026-09-02T10:16:25.542Z"
+  },
+  {
+    "number": "0785",
+    "title": "Is Graph Bipartite?",
+    "slug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory",
+      "Graph Coloring",
+      "Bipartite Graph"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0785-is-graph-bipartite",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/",
+    "submissionId": "2128345963",
+    "updatedAt": "2026-09-02T11:02:53.114Z"
   }
 ]
