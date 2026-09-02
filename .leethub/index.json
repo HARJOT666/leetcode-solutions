@@ -1077,5 +1077,25 @@
     "url": "https://leetcode.com/problems/surrounded-regions/",
     "submissionId": "2128274580",
     "updatedAt": "2026-09-02T09:46:28.082Z"
+  },
+  {
+    "number": "1020",
+    "title": "Number of Enclaves",
+    "slug": "number-of-enclaves",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1020-number-of-enclaves",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/number-of-enclaves/",
+    "submissionId": "2128302996",
+    "updatedAt": "2026-09-02T10:16:25.542Z"
   }
 ]

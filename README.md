@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 58
+- **Total solved:** 59
 - **Easy:** 20
-- **Medium:** 35
+- **Medium:** 36
 - **Hard:** 3
 
 ## Problems
@@ -65,6 +65,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 0994 | [Rotting Oranges](./0994-rotting-oranges/README.md) | Medium | Java | [Solution](./0994-rotting-oranges/Solution.java) |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Java | [Solution](./1008-construct-binary-search-tree-from-preorder-traversal/Solution.java) |
+| 1020 | [Number of Enclaves](./1020-number-of-enclaves/README.md) | Medium | Java | [Solution](./1020-number-of-enclaves/Solution.java) |
 | 1035 | [Uncrossed Lines](./1035-uncrossed-lines/README.md) | Medium | Java | [Solution](./1035-uncrossed-lines/Solution.java) |
 | 1046 | [Last Stone Weight](./1046-last-stone-weight/README.md) | Easy | Java | [Solution](./1046-last-stone-weight/Solution.java) |
 | 1143 | [Longest Common Subsequence](./1143-longest-common-subsequence/README.md) | Medium | Java | [Solution](./1143-longest-common-subsequence/Solution.java) |
