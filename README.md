@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 64
+- **Total solved:** 65
 - **Easy:** 21
-- **Medium:** 40
+- **Medium:** 41
 - **Hard:** 3
 
 ## Problems
@@ -62,6 +62,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
 | 0746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | Easy | Java | [Solution](./0746-min-cost-climbing-stairs/Solution.java) |
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
+| 0802 | [Find Eventual Safe States](./0802-find-eventual-safe-states/README.md) | Medium | Java | [Solution](./0802-find-eventual-safe-states/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
