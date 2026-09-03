@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 65
+- **Total solved:** 66
 - **Easy:** 21
-- **Medium:** 41
+- **Medium:** 42
 - **Hard:** 3
 
 ## Problems
@@ -20,6 +20,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
 | 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
+| 0073 | [Set Matrix Zeroes](./0073-set-matrix-zeroes/README.md) | Medium | Java | [Solution](./0073-set-matrix-zeroes/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |
 | 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |

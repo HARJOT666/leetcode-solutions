@@ -1220,5 +1220,23 @@
     "url": "https://leetcode.com/problems/find-eventual-safe-states/",
     "submissionId": "2129492380",
     "updatedAt": "2026-09-03T10:22:02.434Z"
+  },
+  {
+    "number": "0073",
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0073-set-matrix-zeroes",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "submissionId": "2129514445",
+    "updatedAt": "2026-09-03T10:47:17.013Z"
   }
 ]
