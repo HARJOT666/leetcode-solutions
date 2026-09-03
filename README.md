@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 61
+- **Total solved:** 62
 - **Easy:** 21
-- **Medium:** 37
+- **Medium:** 38
 - **Hard:** 3
 
 ## Problems
@@ -62,6 +62,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
+| 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 0994 | [Rotting Oranges](./0994-rotting-oranges/README.md) | Medium | Java | [Solution](./0994-rotting-oranges/Solution.java) |

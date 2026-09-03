@@ -1137,5 +1137,28 @@
     "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
     "submissionId": "2128397202",
     "updatedAt": "2026-09-02T12:06:29.773Z"
+  },
+  {
+    "number": "0912",
+    "title": "Sort an Array",
+    "slug": "sort-an-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0912-sort-an-array",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/sort-an-array/",
+    "submissionId": "2129384412",
+    "updatedAt": "2026-09-03T08:21:05.665Z"
   }
 ]
