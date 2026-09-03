@@ -1180,5 +1180,24 @@
     "url": "https://leetcode.com/problems/course-schedule/",
     "submissionId": "2129406666",
     "updatedAt": "2026-09-03T08:47:59.037Z"
+  },
+  {
+    "number": "0210",
+    "title": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0210-course-schedule-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/course-schedule-ii/",
+    "submissionId": "2129422039",
+    "updatedAt": "2026-09-03T09:04:47.998Z"
   }
 ]
