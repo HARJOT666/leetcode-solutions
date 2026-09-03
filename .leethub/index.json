@@ -1160,5 +1160,25 @@
     "url": "https://leetcode.com/problems/sort-an-array/",
     "submissionId": "2129384412",
     "updatedAt": "2026-09-03T08:21:05.665Z"
+  },
+  {
+    "number": "0207",
+    "title": "Course Schedule",
+    "slug": "course-schedule",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Directed Acyclic Graph"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0207-course-schedule",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/course-schedule/",
+    "submissionId": "2129406666",
+    "updatedAt": "2026-09-03T08:47:59.037Z"
   }
 ]

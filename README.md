@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 62
+- **Total solved:** 63
 - **Easy:** 21
-- **Medium:** 38
+- **Medium:** 39
 - **Hard:** 3
 
 ## Problems
@@ -31,6 +31,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
+| 0207 | [Course Schedule](./0207-course-schedule/README.md) | Medium | Java | [Solution](./0207-course-schedule/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
 | 0215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array/README.md) | Medium | Java | [Solution](./0215-kth-largest-element-in-an-array/Solution.java) |
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |
