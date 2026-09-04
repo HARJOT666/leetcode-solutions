@@ -1290,5 +1290,22 @@
     "url": "https://leetcode.com/problems/combination-sum/",
     "submissionId": "2130567965",
     "updatedAt": "2026-09-04T10:10:41.715Z"
+  },
+  {
+    "number": "0040",
+    "title": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0040-combination-sum-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/combination-sum-ii/",
+    "submissionId": "2130582132",
+    "updatedAt": "2026-09-04T10:26:46.362Z"
   }
 ]
