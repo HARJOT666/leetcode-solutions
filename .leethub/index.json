@@ -1273,5 +1273,22 @@
     "url": "https://leetcode.com/problems/subsets/",
     "submissionId": "2130559875",
     "updatedAt": "2026-09-04T10:01:40.207Z"
+  },
+  {
+    "number": "0039",
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0039-combination-sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "submissionId": "2130567965",
+    "updatedAt": "2026-09-04T10:10:41.715Z"
   }
 ]

@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 68
+- **Total solved:** 69
 - **Easy:** 21
-- **Medium:** 44
+- **Medium:** 45
 - **Hard:** 3
 
 ## Problems
@@ -17,6 +17,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0011 | [Container With Most Water](./0011-container-with-most-water/README.md) | Medium | Java | [Solution](./0011-container-with-most-water/Solution.java) |
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
+| 0039 | [Combination Sum](./0039-combination-sum/README.md) | Medium | Java | [Solution](./0039-combination-sum/Solution.java) |
 | 0046 | [Permutations](./0046-permutations/README.md) | Medium | Java | [Solution](./0046-permutations/Solution.java) |
 | 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
 | 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |
