@@ -1307,5 +1307,23 @@
     "url": "https://leetcode.com/problems/combination-sum-ii/",
     "submissionId": "2130582132",
     "updatedAt": "2026-09-04T10:26:46.362Z"
+  },
+  {
+    "number": "0090",
+    "title": "Subsets II",
+    "slug": "subsets-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0090-subsets-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/subsets-ii/",
+    "submissionId": "2130600004",
+    "updatedAt": "2026-09-04T10:47:44.746Z"
   }
 ]
