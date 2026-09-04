@@ -1345,5 +1345,24 @@
     "url": "https://leetcode.com/problems/word-search/",
     "submissionId": "2130683786",
     "updatedAt": "2026-09-04T12:29:33.314Z"
+  },
+  {
+    "number": "0022",
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0022-generate-parentheses",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/generate-parentheses/",
+    "submissionId": "2130707541",
+    "updatedAt": "2026-09-04T12:57:43.820Z"
   }
 ]

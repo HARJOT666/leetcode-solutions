@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 72
+- **Total solved:** 73
 - **Easy:** 21
-- **Medium:** 48
+- **Medium:** 49
 - **Hard:** 3
 
 ## Problems
@@ -17,6 +17,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0011 | [Container With Most Water](./0011-container-with-most-water/README.md) | Medium | Java | [Solution](./0011-container-with-most-water/Solution.java) |
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
+| 0022 | [Generate Parentheses](./0022-generate-parentheses/README.md) | Medium | Java | [Solution](./0022-generate-parentheses/Solution.java) |
 | 0039 | [Combination Sum](./0039-combination-sum/README.md) | Medium | Java | [Solution](./0039-combination-sum/Solution.java) |
 | 0040 | [Combination Sum II](./0040-combination-sum-ii/README.md) | Medium | Java | [Solution](./0040-combination-sum-ii/Solution.java) |
 | 0046 | [Permutations](./0046-permutations/README.md) | Medium | Java | [Solution](./0046-permutations/Solution.java) |
