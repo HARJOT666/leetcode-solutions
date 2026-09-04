@@ -1238,5 +1238,22 @@
     "url": "https://leetcode.com/problems/set-matrix-zeroes/",
     "submissionId": "2129514445",
     "updatedAt": "2026-09-03T10:47:17.013Z"
+  },
+  {
+    "number": "0046",
+    "title": "Permutations",
+    "slug": "permutations",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0046-permutations",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/permutations/",
+    "submissionId": "2130542519",
+    "updatedAt": "2026-09-04T09:42:23.676Z"
   }
 ]
