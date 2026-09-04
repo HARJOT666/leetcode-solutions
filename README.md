@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 71
+- **Total solved:** 72
 - **Easy:** 21
-- **Medium:** 47
+- **Medium:** 48
 - **Hard:** 3
 
 ## Problems
@@ -25,6 +25,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
 | 0073 | [Set Matrix Zeroes](./0073-set-matrix-zeroes/README.md) | Medium | Java | [Solution](./0073-set-matrix-zeroes/Solution.java) |
 | 0078 | [Subsets](./0078-subsets/README.md) | Medium | Java | [Solution](./0078-subsets/Solution.java) |
+| 0079 | [Word Search](./0079-word-search/README.md) | Medium | Java | [Solution](./0079-word-search/Solution.java) |
 | 0090 | [Subsets II](./0090-subsets-ii/README.md) | Medium | Java | [Solution](./0090-subsets-ii/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |

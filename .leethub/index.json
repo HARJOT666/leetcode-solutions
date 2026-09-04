@@ -1325,5 +1325,25 @@
     "url": "https://leetcode.com/problems/subsets-ii/",
     "submissionId": "2130600004",
     "updatedAt": "2026-09-04T10:47:44.746Z"
+  },
+  {
+    "number": "0079",
+    "title": "Word Search",
+    "slug": "word-search",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0079-word-search",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/word-search/",
+    "submissionId": "2130683786",
+    "updatedAt": "2026-09-04T12:29:33.314Z"
   }
 ]
