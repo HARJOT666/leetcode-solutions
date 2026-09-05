@@ -1400,5 +1400,26 @@
     "url": "https://leetcode.com/problems/palindrome-partitioning/",
     "submissionId": "2131519353",
     "updatedAt": "2026-09-05T08:55:57.364Z"
+  },
+  {
+    "number": "0239",
+    "title": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue",
+      "Range Minimum/Maximum Query"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0239-sliding-window-maximum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "submissionId": "2131646538",
+    "updatedAt": "2026-09-05T11:24:12.841Z"
   }
 ]
