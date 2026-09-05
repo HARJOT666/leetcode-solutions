@@ -1438,5 +1438,23 @@
     "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
     "submissionId": "2131673640",
     "updatedAt": "2026-09-05T11:57:58.080Z"
+  },
+  {
+    "number": "2461",
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+    "submissionId": "2131704818",
+    "updatedAt": "2026-09-05T12:36:47.134Z"
   }
 ]

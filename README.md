@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 77
+- **Total solved:** 78
 - **Easy:** 22
-- **Medium:** 51
+- **Medium:** 52
 - **Hard:** 4
 
 ## Problems
@@ -90,3 +90,4 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md) | Hard | Java | [Solution](./1312-minimum-insertion-steps-to-make-a-string-palindrome/Solution.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/README.md) | Medium | Java | [Solution](./1541-minimum-insertions-to-balance-a-parentheses-string/Solution.java) |
 | 1971 | [Find if Path Exists in Graph](./1971-find-if-path-exists-in-graph/README.md) | Easy | Java | [Solution](./1971-find-if-path-exists-in-graph/Solution.java) |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](./2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md) | Medium | Java | [Solution](./2461-maximum-sum-of-distinct-subarrays-with-length-k/Solution.java) |
