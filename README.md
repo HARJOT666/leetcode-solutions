@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 73
+- **Total solved:** 74
 - **Easy:** 21
-- **Medium:** 49
+- **Medium:** 50
 - **Hard:** 3
 
 ## Problems
@@ -16,6 +16,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0001 | [Two Sum](./0001-two-sum/README.md) | Easy | Java | [Solution](./0001-two-sum/Solution.java) |
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0011 | [Container With Most Water](./0011-container-with-most-water/README.md) | Medium | Java | [Solution](./0011-container-with-most-water/Solution.java) |
+| 0017 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | Medium | Java | [Solution](./0017-letter-combinations-of-a-phone-number/Solution.java) |
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
 | 0022 | [Generate Parentheses](./0022-generate-parentheses/README.md) | Medium | Java | [Solution](./0022-generate-parentheses/Solution.java) |
 | 0039 | [Combination Sum](./0039-combination-sum/README.md) | Medium | Java | [Solution](./0039-combination-sum/Solution.java) |

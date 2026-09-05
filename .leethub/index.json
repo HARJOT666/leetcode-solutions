@@ -1364,5 +1364,23 @@
     "url": "https://leetcode.com/problems/generate-parentheses/",
     "submissionId": "2130707541",
     "updatedAt": "2026-09-04T12:57:43.820Z"
+  },
+  {
+    "number": "0017",
+    "title": "Letter Combinations of a Phone Number",
+    "slug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0017-letter-combinations-of-a-phone-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "submissionId": "2131505414",
+    "updatedAt": "2026-09-05T08:38:34.564Z"
   }
 ]
