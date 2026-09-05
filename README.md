@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 74
+- **Total solved:** 75
 - **Easy:** 21
-- **Medium:** 50
+- **Medium:** 51
 - **Hard:** 3
 
 ## Problems
@@ -35,6 +35,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
 | 0130 | [Surrounded Regions](./0130-surrounded-regions/README.md) | Medium | Java | [Solution](./0130-surrounded-regions/Solution.java) |
+| 0131 | [Palindrome Partitioning](./0131-palindrome-partitioning/README.md) | Medium | Java | [Solution](./0131-palindrome-partitioning/Solution.java) |
 | 0155 | [Min Stack](./0155-min-stack/README.md) | Medium | Java | [Solution](./0155-min-stack/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
 | 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |

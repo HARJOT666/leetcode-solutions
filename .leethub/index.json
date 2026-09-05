@@ -1382,5 +1382,23 @@
     "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
     "submissionId": "2131505414",
     "updatedAt": "2026-09-05T08:38:34.564Z"
+  },
+  {
+    "number": "0131",
+    "title": "Palindrome Partitioning",
+    "slug": "palindrome-partitioning",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0131-palindrome-partitioning",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "submissionId": "2131519353",
+    "updatedAt": "2026-09-05T08:55:57.364Z"
   }
 ]
