@@ -1421,5 +1421,22 @@
     "url": "https://leetcode.com/problems/sliding-window-maximum/",
     "submissionId": "2131646538",
     "updatedAt": "2026-09-05T11:24:12.841Z"
+  },
+  {
+    "number": "0643",
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0643-maximum-average-subarray-i",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "submissionId": "2131673640",
+    "updatedAt": "2026-09-05T11:57:58.080Z"
   }
 ]

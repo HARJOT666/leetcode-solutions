@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 76
-- **Easy:** 21
+- **Total solved:** 77
+- **Easy:** 22
 - **Medium:** 51
 - **Hard:** 4
 
@@ -64,6 +64,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
+| 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0695 | [Max Area of Island](./0695-max-area-of-island/README.md) | Medium | Java | [Solution](./0695-max-area-of-island/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
