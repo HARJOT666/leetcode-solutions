@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 78
+- **Total solved:** 79
 - **Easy:** 22
-- **Medium:** 52
+- **Medium:** 53
 - **Hard:** 4
 
 ## Problems
@@ -52,6 +52,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0242 | [Valid Anagram](./0242-valid-anagram/README.md) | Easy | Java | [Solution](./0242-valid-anagram/Solution.java) |
 | 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
+| 0347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/README.md) | Medium | Java | [Solution](./0347-top-k-frequent-elements/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |

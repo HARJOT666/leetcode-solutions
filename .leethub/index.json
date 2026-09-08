@@ -1456,5 +1456,28 @@
     "url": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
     "submissionId": "2131704818",
     "updatedAt": "2026-09-05T12:36:47.134Z"
+  },
+  {
+    "number": "0347",
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0347-top-k-frequent-elements",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "submissionId": "2135332067",
+    "updatedAt": "2026-09-08T16:08:00.303Z"
   }
 ]
