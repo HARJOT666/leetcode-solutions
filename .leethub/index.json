@@ -1521,5 +1521,23 @@
     "url": "https://leetcode.com/problems/find-k-closest-elements/",
     "submissionId": "2135432006",
     "updatedAt": "2026-09-08T17:26:37.258Z"
+  },
+  {
+    "number": "0015",
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0015-3sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/3sum/",
+    "submissionId": "2135515840",
+    "updatedAt": "2026-09-08T18:20:56.791Z"
   }
 ]
