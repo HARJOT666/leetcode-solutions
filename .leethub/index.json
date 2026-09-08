@@ -1500,5 +1500,26 @@
     "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
     "submissionId": "2135355384",
     "updatedAt": "2026-09-08T16:25:40.268Z"
+  },
+  {
+    "number": "0658",
+    "title": "Find K Closest Elements",
+    "slug": "find-k-closest-elements",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0658-find-k-closest-elements",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-k-closest-elements/",
+    "submissionId": "2135431469",
+    "updatedAt": "2026-09-08T17:19:50.454Z"
   }
 ]
