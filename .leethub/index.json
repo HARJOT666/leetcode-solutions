@@ -1479,5 +1479,26 @@
     "url": "https://leetcode.com/problems/top-k-frequent-elements/",
     "submissionId": "2135332067",
     "updatedAt": "2026-09-08T16:08:00.303Z"
+  },
+  {
+    "number": "0451",
+    "title": "Sort Characters By Frequency",
+    "slug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0451-sort-characters-by-frequency",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "submissionId": "2135355384",
+    "updatedAt": "2026-09-08T16:25:40.268Z"
   }
 ]

@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 79
+- **Total solved:** 80
 - **Easy:** 22
-- **Medium:** 53
+- **Medium:** 54
 - **Hard:** 4
 
 ## Problems
@@ -55,6 +55,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/README.md) | Medium | Java | [Solution](./0347-top-k-frequent-elements/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
+| 0451 | [Sort Characters By Frequency](./0451-sort-characters-by-frequency/README.md) | Medium | Java | [Solution](./0451-sort-characters-by-frequency/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence/README.md) | Medium | Java | [Solution](./0516-longest-palindromic-subsequence/Solution.java) |
 | 0521 | [Longest Uncommon Subsequence I](./0521-longest-uncommon-subsequence-i/README.md) | Easy | Java | [Solution](./0521-longest-uncommon-subsequence-i/Solution.java) |
