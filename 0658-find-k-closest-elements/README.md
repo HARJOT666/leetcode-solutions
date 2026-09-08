@@ -35,7 +35,7 @@ An integer `a` is closer to `x` than an integer `b` if:
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 1072 ms
-- **Memory:** 47.8 MB
+- **Runtime:** 1067 ms
+- **Memory:** 47.7 MB
 
 > Synced automatically from an Accepted LeetCode submission on 2026-09-08.
