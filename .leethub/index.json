@@ -1539,5 +1539,23 @@
     "url": "https://leetcode.com/problems/3sum/",
     "submissionId": "2135515840",
     "updatedAt": "2026-09-08T18:20:56.791Z"
+  },
+  {
+    "number": "0018",
+    "title": "4Sum",
+    "slug": "4sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0018-4sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/4sum/",
+    "submissionId": "2136632415",
+    "updatedAt": "2026-09-09T17:08:53.829Z"
   }
 ]
