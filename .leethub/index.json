@@ -1611,5 +1611,22 @@
     "url": "https://leetcode.com/problems/merge-intervals/",
     "submissionId": "2137839874",
     "updatedAt": "2026-09-10T18:14:54.750Z"
+  },
+  {
+    "number": "0154",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0154-find-minimum-in-rotated-sorted-array-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "submissionId": "2137924795",
+    "updatedAt": "2026-09-10T19:53:37.047Z"
   }
 ]
