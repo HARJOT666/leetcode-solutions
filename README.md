@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 85
+- **Total solved:** 86
 - **Easy:** 22
-- **Medium:** 59
+- **Medium:** 60
 - **Hard:** 4
 
 ## Problems
@@ -27,6 +27,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0046 | [Permutations](./0046-permutations/README.md) | Medium | Java | [Solution](./0046-permutations/Solution.java) |
 | 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
 | 0054 | [Spiral Matrix](./0054-spiral-matrix/README.md) | Medium | Java | [Solution](./0054-spiral-matrix/Solution.java) |
+| 0056 | [Merge Intervals](./0056-merge-intervals/README.md) | Medium | Java | [Solution](./0056-merge-intervals/Solution.java) |
 | 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
 | 0073 | [Set Matrix Zeroes](./0073-set-matrix-zeroes/README.md) | Medium | Java | [Solution](./0073-set-matrix-zeroes/Solution.java) |

@@ -1593,5 +1593,23 @@
     "url": "https://leetcode.com/problems/3sum-closest/",
     "submissionId": "2137778076",
     "updatedAt": "2026-09-10T17:25:41.787Z"
+  },
+  {
+    "number": "0056",
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0056-merge-intervals",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "submissionId": "2137839874",
+    "updatedAt": "2026-09-10T18:14:54.750Z"
   }
 ]
