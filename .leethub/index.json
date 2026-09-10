@@ -1575,5 +1575,23 @@
     "url": "https://leetcode.com/problems/spiral-matrix/",
     "submissionId": "2137764403",
     "updatedAt": "2026-09-10T17:14:55.471Z"
+  },
+  {
+    "number": "0016",
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0016-3sum-closest",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/3sum-closest/",
+    "submissionId": "2137778076",
+    "updatedAt": "2026-09-10T17:25:41.787Z"
   }
 ]
