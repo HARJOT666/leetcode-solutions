@@ -49,7 +49,7 @@ myStack.empty(); // return False
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 54 ms
-- **Memory:** 42.9 MB
+- **Runtime:** 63 ms
+- **Memory:** 43.1 MB
 
 > Synced automatically from an Accepted LeetCode submission on 2026-09-10.
