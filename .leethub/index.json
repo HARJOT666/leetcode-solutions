@@ -1557,5 +1557,23 @@
     "url": "https://leetcode.com/problems/4sum/",
     "submissionId": "2136632415",
     "updatedAt": "2026-09-09T17:08:53.829Z"
+  },
+  {
+    "number": "0054",
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0054-spiral-matrix",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/spiral-matrix/",
+    "submissionId": "2137764403",
+    "updatedAt": "2026-09-10T17:14:55.471Z"
   }
 ]
