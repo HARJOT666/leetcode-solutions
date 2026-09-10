@@ -1628,5 +1628,23 @@
     "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
     "submissionId": "2137924795",
     "updatedAt": "2026-09-10T19:53:37.047Z"
+  },
+  {
+    "number": "0225",
+    "title": "Implement Stack using Queues",
+    "slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0225-implement-stack-using-queues",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "submissionId": "2137929366",
+    "updatedAt": "2026-09-10T20:01:09.624Z"
   }
 ]
