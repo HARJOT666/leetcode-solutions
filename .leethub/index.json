@@ -1664,5 +1664,24 @@
     "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
     "submissionId": "2138646227",
     "updatedAt": "2026-09-11T14:43:34.854Z"
+  },
+  {
+    "number": "0853",
+    "title": "Car Fleet",
+    "slug": "car-fleet",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0853-car-fleet",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/car-fleet/",
+    "submissionId": "2138686873",
+    "updatedAt": "2026-09-11T15:28:53.411Z"
   }
 ]

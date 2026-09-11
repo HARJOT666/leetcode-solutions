@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 89
+- **Total solved:** 90
 - **Easy:** 23
-- **Medium:** 61
+- **Medium:** 62
 - **Hard:** 5
 
 ## Problems
@@ -87,6 +87,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
 | 0802 | [Find Eventual Safe States](./0802-find-eventual-safe-states/README.md) | Medium | Java | [Solution](./0802-find-eventual-safe-states/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
+| 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
