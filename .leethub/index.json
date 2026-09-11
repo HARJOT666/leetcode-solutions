@@ -1646,5 +1646,23 @@
     "url": "https://leetcode.com/problems/implement-stack-using-queues/",
     "submissionId": "2137930614",
     "updatedAt": "2026-09-10T20:03:22.028Z"
+  },
+  {
+    "number": "0150",
+    "title": "Evaluate Reverse Polish Notation",
+    "slug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0150-evaluate-reverse-polish-notation",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "submissionId": "2138646227",
+    "updatedAt": "2026-09-11T14:43:34.854Z"
   }
 ]
