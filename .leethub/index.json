@@ -1683,5 +1683,23 @@
     "url": "https://leetcode.com/problems/car-fleet/",
     "submissionId": "2138686873",
     "updatedAt": "2026-09-11T15:28:53.411Z"
+  },
+  {
+    "number": "0062",
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0062-unique-paths",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "submissionId": "2139392896",
+    "updatedAt": "2026-09-12T10:33:33.142Z"
   }
 ]
