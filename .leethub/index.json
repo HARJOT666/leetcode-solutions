@@ -1718,5 +1718,24 @@
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
     "submissionId": "2139416007",
     "updatedAt": "2026-09-12T11:03:51.663Z"
+  },
+  {
+    "number": "0518",
+    "title": "Coin Change II",
+    "slug": "coin-change-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0518-coin-change-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/coin-change-ii/",
+    "submissionId": "2139429340",
+    "updatedAt": "2026-09-12T11:22:28.175Z"
   }
 ]
