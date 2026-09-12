@@ -1754,5 +1754,24 @@
     "url": "https://leetcode.com/problems/interleaving-string/",
     "submissionId": "2139466844",
     "updatedAt": "2026-09-12T12:16:16.794Z"
+  },
+  {
+    "number": "0226",
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0226-invert-binary-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/invert-binary-tree/",
+    "submissionId": "2139480032",
+    "updatedAt": "2026-09-12T12:34:53.025Z"
   }
 ]
