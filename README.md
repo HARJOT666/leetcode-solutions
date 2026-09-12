@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 91
+- **Total solved:** 92
 - **Easy:** 23
-- **Medium:** 63
+- **Medium:** 64
 - **Hard:** 5
 
 ## Problems
@@ -60,6 +60,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0239 | [Sliding Window Maximum](./0239-sliding-window-maximum/README.md) | Hard | Java | [Solution](./0239-sliding-window-maximum/Solution.java) |
 | 0242 | [Valid Anagram](./0242-valid-anagram/README.md) | Easy | Java | [Solution](./0242-valid-anagram/Solution.java) |
 | 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
+| 0309 | [Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | Medium | Java | [Solution](./0309-best-time-to-buy-and-sell-stock-with-cooldown/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
 | 0347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/README.md) | Medium | Java | [Solution](./0347-top-k-frequent-elements/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |

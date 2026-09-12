@@ -1701,5 +1701,22 @@
     "url": "https://leetcode.com/problems/unique-paths/",
     "submissionId": "2139392896",
     "updatedAt": "2026-09-12T10:33:33.142Z"
+  },
+  {
+    "number": "0309",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0309-best-time-to-buy-and-sell-stock-with-cooldown",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "submissionId": "2139416007",
+    "updatedAt": "2026-09-12T11:03:51.663Z"
   }
 ]
