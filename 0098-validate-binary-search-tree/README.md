@@ -44,4 +44,4 @@ Explanation: The root node's value is 5 but its right child's value is 4.
 - **Runtime:** 2 ms
 - **Memory:** 45.7 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-07-27.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-13.
