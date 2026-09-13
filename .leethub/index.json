@@ -1791,5 +1791,23 @@
     "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
     "submissionId": "2140851339",
     "updatedAt": "2026-09-13T17:24:34.863Z"
+  },
+  {
+    "number": "0167",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0167-two-sum-ii-input-array-is-sorted",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "submissionId": "2140906325",
+    "updatedAt": "2026-09-13T18:16:37.848Z"
   }
 ]
