@@ -1809,5 +1809,23 @@
     "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
     "submissionId": "2140906325",
     "updatedAt": "2026-09-13T18:16:37.848Z"
+  },
+  {
+    "number": "0232",
+    "title": "Implement Queue using Stacks",
+    "slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0232-implement-queue-using-stacks",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "submissionId": "2140915979",
+    "updatedAt": "2026-09-13T18:26:00.254Z"
   }
 ]

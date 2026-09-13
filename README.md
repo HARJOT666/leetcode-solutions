@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 97
-- **Easy:** 24
+- **Total solved:** 98
+- **Easy:** 25
 - **Medium:** 68
 - **Hard:** 5
 
@@ -60,6 +60,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0225 | [Implement Stack using Queues](./0225-implement-stack-using-queues/README.md) | Easy | Java | [Solution](./0225-implement-stack-using-queues/Solution.java) |
 | 0226 | [Invert Binary Tree](./0226-invert-binary-tree/README.md) | Easy | Java | [Solution](./0226-invert-binary-tree/Solution.java) |
 | 0230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst/README.md) | Medium | Java | [Solution](./0230-kth-smallest-element-in-a-bst/Solution.java) |
+| 0232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks/README.md) | Easy | Java | [Solution](./0232-implement-queue-using-stacks/Solution.java) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Medium | Java | [Solution](./0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
 | 0239 | [Sliding Window Maximum](./0239-sliding-window-maximum/README.md) | Hard | Java | [Solution](./0239-sliding-window-maximum/Solution.java) |
 | 0242 | [Valid Anagram](./0242-valid-anagram/README.md) | Easy | Java | [Solution](./0242-valid-anagram/Solution.java) |
