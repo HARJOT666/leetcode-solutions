@@ -38,7 +38,7 @@ Output: false
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 11 ms
-- **Memory:** 46.8 MB
+- **Runtime:** 14 ms
+- **Memory:** 46.4 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-01.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-13.
