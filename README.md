@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 95
+- **Total solved:** 96
 - **Easy:** 24
-- **Medium:** 66
+- **Medium:** 67
 - **Hard:** 5
 
 ## Problems
@@ -41,6 +41,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |
 | 0121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
+| 0129 | [Sum Root to Leaf Numbers](./0129-sum-root-to-leaf-numbers/README.md) | Medium | Java | [Solution](./0129-sum-root-to-leaf-numbers/Solution.java) |
 | 0130 | [Surrounded Regions](./0130-surrounded-regions/README.md) | Medium | Java | [Solution](./0130-surrounded-regions/Solution.java) |
 | 0131 | [Palindrome Partitioning](./0131-palindrome-partitioning/README.md) | Medium | Java | [Solution](./0131-palindrome-partitioning/Solution.java) |
 | 0150 | [Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | Java | [Solution](./0150-evaluate-reverse-polish-notation/Solution.java) |
