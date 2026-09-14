@@ -1827,5 +1827,21 @@
     "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
     "submissionId": "2140915979",
     "updatedAt": "2026-09-13T18:26:00.254Z"
+  },
+  {
+    "number": "0263",
+    "title": "Ugly Number",
+    "slug": "ugly-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0263-ugly-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/ugly-number/",
+    "submissionId": "2141873019",
+    "updatedAt": "2026-09-14T18:01:56.199Z"
   }
 ]
