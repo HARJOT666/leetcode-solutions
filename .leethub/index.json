@@ -1843,5 +1843,24 @@
     "url": "https://leetcode.com/problems/ugly-number/",
     "submissionId": "2141873019",
     "updatedAt": "2026-09-14T18:01:56.199Z"
+  },
+  {
+    "number": "0264",
+    "title": "Ugly Number II",
+    "slug": "ugly-number-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Heap (Priority Queue)"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0264-ugly-number-ii",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/ugly-number-ii/",
+    "submissionId": "2141955667",
+    "updatedAt": "2026-09-14T19:33:49.378Z"
   }
 ]
