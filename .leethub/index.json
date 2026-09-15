@@ -1950,5 +1950,22 @@
     "url": "https://leetcode.com/problems/binary-search/",
     "submissionId": "2142456816",
     "updatedAt": "2026-09-15T09:54:28.740Z"
+  },
+  {
+    "number": "0021",
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0021-merge-two-sorted-lists",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "submissionId": "2142462316",
+    "updatedAt": "2026-09-15T10:00:53.304Z"
   }
 ]

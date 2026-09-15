@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 105
-- **Easy:** 30
+- **Total solved:** 106
+- **Easy:** 31
 - **Medium:** 70
 - **Hard:** 5
 
@@ -21,6 +21,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0017 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | Medium | Java | [Solution](./0017-letter-combinations-of-a-phone-number/Solution.java) |
 | 0018 | [4Sum](./0018-4sum/README.md) | Medium | Java | [Solution](./0018-4sum/Solution.java) |
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
+| 0021 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists/README.md) | Easy | Java | [Solution](./0021-merge-two-sorted-lists/Solution.java) |
 | 0022 | [Generate Parentheses](./0022-generate-parentheses/README.md) | Medium | Java | [Solution](./0022-generate-parentheses/Solution.java) |
 | 0039 | [Combination Sum](./0039-combination-sum/README.md) | Medium | Java | [Solution](./0039-combination-sum/Solution.java) |
 | 0040 | [Combination Sum II](./0040-combination-sum-ii/README.md) | Medium | Java | [Solution](./0040-combination-sum-ii/Solution.java) |
