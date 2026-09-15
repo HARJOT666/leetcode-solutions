@@ -1879,5 +1879,23 @@
     "url": "https://leetcode.com/problems/concatenation-of-array/",
     "submissionId": "2141970883",
     "updatedAt": "2026-09-14T19:58:53.684Z"
+  },
+  {
+    "number": "0735",
+    "title": "Asteroid Collision",
+    "slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0735-asteroid-collision",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/asteroid-collision/",
+    "submissionId": "2142394581",
+    "updatedAt": "2026-09-15T08:39:10.373Z"
   }
 ]
