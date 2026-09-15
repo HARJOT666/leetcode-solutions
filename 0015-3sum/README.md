@@ -47,7 +47,7 @@ Explanation: The only possible triplet sums up to 0.
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 302 ms
-- **Memory:** 60.1 MB
+- **Runtime:** 313 ms
+- **Memory:** 60.3 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-09-08.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-15.
