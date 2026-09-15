@@ -37,7 +37,7 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 2 ms
-- **Memory:** 94.5 MB
+- **Runtime:** 59 ms
+- **Memory:** 113.7 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-26.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-15.
