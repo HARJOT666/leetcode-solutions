@@ -52,7 +52,7 @@ An input string is valid if:
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 5 ms
+- **Runtime:** 6 ms
 - **Memory:** 43.5 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-26.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-15.
