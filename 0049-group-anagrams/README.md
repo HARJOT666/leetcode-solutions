@@ -41,7 +41,7 @@ Given an array of strings `strs`, group the anagrams together. You can return th
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 1075 ms
-- **Memory:** 49.4 MB
+- **Runtime:** 1073 ms
+- **Memory:** 49.9 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-24.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-15.
