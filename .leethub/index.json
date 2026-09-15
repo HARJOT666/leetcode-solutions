@@ -1916,5 +1916,22 @@
     "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "submissionId": "2142449211",
     "updatedAt": "2026-09-15T09:45:12.206Z"
+  },
+  {
+    "number": "0206",
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0206-reverse-linked-list",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/reverse-linked-list/",
+    "submissionId": "2142454242",
+    "updatedAt": "2026-09-15T09:51:24.438Z"
   }
 ]

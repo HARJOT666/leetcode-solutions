@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 103
-- **Easy:** 28
+- **Total solved:** 104
+- **Easy:** 29
 - **Medium:** 70
 - **Hard:** 5
 
@@ -53,6 +53,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
+| 0206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | Easy | Java | [Solution](./0206-reverse-linked-list/Solution.java) |
 | 0207 | [Course Schedule](./0207-course-schedule/README.md) | Medium | Java | [Solution](./0207-course-schedule/Solution.java) |
 | 0210 | [Course Schedule II](./0210-course-schedule-ii/README.md) | Medium | Java | [Solution](./0210-course-schedule-ii/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
