@@ -30,7 +30,7 @@ Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `f
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 5 ms
-- **Memory:** 46.4 MB
+- **Runtime:** 4 ms
+- **Memory:** 46.2 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-24.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-15.
