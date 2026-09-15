@@ -1897,5 +1897,24 @@
     "url": "https://leetcode.com/problems/asteroid-collision/",
     "submissionId": "2142394581",
     "updatedAt": "2026-09-15T08:39:10.373Z"
+  },
+  {
+    "number": "0104",
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0104-maximum-depth-of-binary-tree",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "submissionId": "2142449211",
+    "updatedAt": "2026-09-15T09:45:12.206Z"
   }
 ]

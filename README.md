@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 102
-- **Easy:** 27
+- **Total solved:** 103
+- **Easy:** 28
 - **Medium:** 70
 - **Hard:** 5
 
@@ -38,6 +38,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0097 | [Interleaving String](./0097-interleaving-string/README.md) | Medium | Java | [Solution](./0097-interleaving-string/Solution.java) |
 | 0098 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | Java | [Solution](./0098-validate-binary-search-tree/Solution.java) |
 | 0102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/README.md) | Medium | Java | [Solution](./0102-binary-tree-level-order-traversal/Solution.java) |
+| 0104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree/README.md) | Easy | Java | [Solution](./0104-maximum-depth-of-binary-tree/Solution.java) |
 | 0115 | [Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | Java | [Solution](./0115-distinct-subsequences/Solution.java) |
 | 0121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 0124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/README.md) | Hard | Java | [Solution](./0124-binary-tree-maximum-path-sum/Solution.java) |
