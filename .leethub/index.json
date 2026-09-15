@@ -1933,5 +1933,22 @@
     "url": "https://leetcode.com/problems/reverse-linked-list/",
     "submissionId": "2142454242",
     "updatedAt": "2026-09-15T09:51:24.438Z"
+  },
+  {
+    "number": "0704",
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0704-binary-search",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "submissionId": "2142456816",
+    "updatedAt": "2026-09-15T09:54:28.740Z"
   }
 ]

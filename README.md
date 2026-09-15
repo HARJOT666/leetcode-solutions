@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 104
-- **Easy:** 29
+- **Total solved:** 105
+- **Easy:** 30
 - **Medium:** 70
 - **Hard:** 5
 
@@ -91,6 +91,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0658 | [Find K Closest Elements](./0658-find-k-closest-elements/README.md) | Medium | Java | [Solution](./0658-find-k-closest-elements/Solution.java) |
 | 0695 | [Max Area of Island](./0695-max-area-of-island/README.md) | Medium | Java | [Solution](./0695-max-area-of-island/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
+| 0704 | [Binary Search](./0704-binary-search/README.md) | Easy | Java | [Solution](./0704-binary-search/Solution.java) |
 | 0705 | [Design HashSet](./0705-design-hashset/README.md) | Easy | Java | [Solution](./0705-design-hashset/Solution.java) |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings/README.md) | Medium | Java | [Solution](./0712-minimum-ascii-delete-sum-for-two-strings/Solution.java) |
 | 0733 | [Flood Fill](./0733-flood-fill/README.md) | Easy | Java | [Solution](./0733-flood-fill/Solution.java) |
