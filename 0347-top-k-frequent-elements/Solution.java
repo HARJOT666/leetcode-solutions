@@ -1,31 +1,51 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        int[] count = new int[nums.length];
-        Arrays.sort(nums);
-        int n = nums.length;
-        int freq = 1;
-        for(int i=1;i<n;i++){
-            if(nums[i] == nums[i-1]){
-                freq++;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+
+        for(int i = 0; i < nums.length; i++) {
+            pq.add(nums[i]);
+        }
+
+        List<Integer> list = new ArrayList<>();
+
+        while(!pq.isEmpty()) {
+            list.add(pq.poll());
+        }
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int count = 1;
+
+        for(int i = 0; i < list.size() - 1; i++) {
+            if(list.get(i).equals(list.get(i + 1))) {
+                count++;
             }
-            else{
-                count[i-1] = freq;
-                freq = 1;
+            else {
+                map.put(list.get(i), count);
+                count = 1;
             }
         }
-        count[n - 1] = freq;
-        //we need to return the kth most repated element
-        int[] copy = count.clone();
-            Arrays.sort(copy);
-        int kthMax = copy[n - k];
+
+        map.put(list.get(list.size() - 1), count);
+
+        int[][] arr = new int[map.size()][2];
+
+        int index = 0;
+
+        for(int x : map.keySet()) {
+            arr[index][0] = map.get(x);
+            arr[index][1] = x;
+            index++;
+        }
+
+        Arrays.sort(arr, (a, b) -> b[0] - a[0]);
+
         int[] ans = new int[k];
-        int j = 0;
-        for(int i=0;i<n;i++){
-            if(count[i] >= kthMax){
-                ans[j] = nums[i];
-                j++;
-            }
+
+        for(int i = 0; i < k; i++) {
+            ans[i] = arr[i][1];
         }
-      return ans;
+
+        return ans;
     }
 }

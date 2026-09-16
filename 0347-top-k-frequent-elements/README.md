@@ -38,7 +38,7 @@ Given an integer array `nums` and an integer `k`, return *the* `k` *most frequen
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 11 ms
-- **Memory:** 47.7 MB
+- **Runtime:** 29 ms
+- **Memory:** 47.3 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-09-08.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-16.
