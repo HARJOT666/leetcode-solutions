@@ -1,40 +1,60 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+
         int n = intervals.length;
-        int m = intervals[0].length;
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-        // return an array of non-overlapping intervals
-        // Assuming that the intervals array is given in sorted manner
-        List<int[]> list = new ArrayList<>();
-        int count = 0;
-        for(int i=0;i<n;i++){
-            list.add(intervals[i]);
+
+        List<List<Integer>> list = new ArrayList<>();
+
+        for(int i = 0; i < n; i++){
+            List<Integer> temp = new ArrayList<>();
+            temp.add(intervals[i][0]);
+            temp.add(intervals[i][1]);
+            list.add(temp);
         }
-        merge(list);
-        int[][] newArr = new int[list.size()][2];
-        for (int i = 0; i < list.size(); i++) {
-            for (int j = 0; j < 2; j++) {
-                newArr[i][j] = list.get(i)[j];
+
+        // sort only ONCE
+        list.sort((a, b) -> a.get(0) - b.get(0));
+
+        // your recursive merging
+        list = overLapping(list, 0);
+
+        int k = list.size();
+        int[][] arr = new int[k][2];
+
+        for(int i = 0; i < k; i++){
+            for(int j = 0; j < 2; j++){
+                arr[i][j] = list.get(i).get(j);
             }
         }
-        return newArr;
+
+        return arr;
     }
-   public void merge(List<int[]> list) {
-    boolean merged = false;
-    for (int i = 0; i < list.size() - 1; i++) {
-        if (list.get(i)[1] >= list.get(i + 1)[0]) {
-            int[] newInterval = {
-                list.get(i)[0],
-                Math.max(list.get(i)[1], list.get(i + 1)[1])
-            };
-            list.remove(i + 1);
-            list.remove(i);
-            list.add(i, newInterval);
-            merged = true;
+
+    public List<List<Integer>> overLapping(List<List<Integer>> list, int i){
+
+        if(i >= list.size() - 1){
+            return list;
         }
+
+        if(list.get(i).get(1) >= list.get(i+1).get(0)){
+
+            List<Integer> merged = new ArrayList<>();
+
+            merged.add(list.get(i).get(0));
+
+            int end = Math.max(
+                list.get(i).get(1),
+                list.get(i+1).get(1)
+            );
+
+            merged.add(end);
+
+            list.set(i, merged);
+            list.remove(i+1);
+
+            return overLapping(list, i);
+        }
+
+        return overLapping(list, i+1);
     }
-    if (merged) {
-        merge(list);
-    }
-}
 }

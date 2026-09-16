@@ -41,7 +41,7 @@ Explanation: Intervals [1,4] and [4,7] are considered overlapping.
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 15 ms
-- **Memory:** 48.9 MB
+- **Runtime:** 18 ms
+- **Memory:** 51.3 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-09-10.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-16.
