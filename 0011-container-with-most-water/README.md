@@ -40,7 +40,7 @@ Output: 1
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 5 ms
-- **Memory:** 76.8 MB
+- **Runtime:** 4 ms
+- **Memory:** 77.6 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-25.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-16.
