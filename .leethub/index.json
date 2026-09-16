@@ -1967,5 +1967,22 @@
     "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
     "submissionId": "2142462316",
     "updatedAt": "2026-09-15T10:00:53.304Z"
+  },
+  {
+    "number": "0238",
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0238-product-of-array-except-self",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "submissionId": "2143553864",
+    "updatedAt": "2026-09-16T10:34:02.341Z"
   }
 ]
