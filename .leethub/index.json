@@ -1984,5 +1984,22 @@
     "url": "https://leetcode.com/problems/product-of-array-except-self/",
     "submissionId": "2143553864",
     "updatedAt": "2026-09-16T10:34:02.341Z"
+  },
+  {
+    "number": "0033",
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0033-search-in-rotated-sorted-array",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "submissionId": "2143584543",
+    "updatedAt": "2026-09-16T11:16:03.128Z"
   }
 ]

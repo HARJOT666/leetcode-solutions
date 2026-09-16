@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 107
+- **Total solved:** 108
 - **Easy:** 31
-- **Medium:** 71
+- **Medium:** 72
 - **Hard:** 5
 
 ## Problems
@@ -23,6 +23,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | Easy | Java | [Solution](./0020-valid-parentheses/Solution.java) |
 | 0021 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists/README.md) | Easy | Java | [Solution](./0021-merge-two-sorted-lists/Solution.java) |
 | 0022 | [Generate Parentheses](./0022-generate-parentheses/README.md) | Medium | Java | [Solution](./0022-generate-parentheses/Solution.java) |
+| 0033 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array/README.md) | Medium | Java | [Solution](./0033-search-in-rotated-sorted-array/Solution.java) |
 | 0039 | [Combination Sum](./0039-combination-sum/README.md) | Medium | Java | [Solution](./0039-combination-sum/Solution.java) |
 | 0040 | [Combination Sum II](./0040-combination-sum-ii/README.md) | Medium | Java | [Solution](./0040-combination-sum-ii/Solution.java) |
 | 0046 | [Permutations](./0046-permutations/README.md) | Medium | Java | [Solution](./0046-permutations/Solution.java) |
