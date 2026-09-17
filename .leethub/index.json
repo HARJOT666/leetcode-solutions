@@ -2036,5 +2036,23 @@
     "url": "https://leetcode.com/problems/move-zeroes/",
     "submissionId": "2144834889",
     "updatedAt": "2026-09-17T15:01:21.998Z"
+  },
+  {
+    "number": "0003",
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0003-longest-substring-without-repeating-characters",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "submissionId": "2144847455",
+    "updatedAt": "2026-09-17T15:14:20.557Z"
   }
 ]

@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 110
+- **Total solved:** 111
 - **Easy:** 33
-- **Medium:** 72
+- **Medium:** 73
 - **Hard:** 5
 
 ## Problems
@@ -14,6 +14,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|------------|----------|----------|
 | 0001 | [Two Sum](./0001-two-sum/README.md) | Easy | Java | [Solution](./0001-two-sum/Solution.java) |
+| 0003 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | Java | [Solution](./0003-longest-substring-without-repeating-characters/Solution.java) |
 | 0009 | [Palindrome Number](./0009-palindrome-number/README.md) | Easy | Java | [Solution](./0009-palindrome-number/Solution.java) |
 | 0011 | [Container With Most Water](./0011-container-with-most-water/README.md) | Medium | Java | [Solution](./0011-container-with-most-water/Solution.java) |
 | 0015 | [3Sum](./0015-3sum/README.md) | Medium | Java | [Solution](./0015-3sum/Solution.java) |
