@@ -2054,5 +2054,22 @@
     "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
     "submissionId": "2144847455",
     "updatedAt": "2026-09-17T15:14:20.557Z"
+  },
+  {
+    "number": "0136",
+    "title": "Single Number",
+    "slug": "single-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0136-single-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/single-number/",
+    "submissionId": "2144879136",
+    "updatedAt": "2026-09-17T15:46:38.163Z"
   }
 ]
