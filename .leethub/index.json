@@ -2001,5 +2001,23 @@
     "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "submissionId": "2143584543",
     "updatedAt": "2026-09-16T11:16:03.128Z"
+  },
+  {
+    "number": "0217",
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0217-contains-duplicate",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/contains-duplicate/",
+    "submissionId": "2144813147",
+    "updatedAt": "2026-09-17T14:38:13.500Z"
   }
 ]

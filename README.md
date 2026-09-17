@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 108
-- **Easy:** 31
+- **Total solved:** 109
+- **Easy:** 32
 - **Medium:** 72
 - **Hard:** 5
 
@@ -60,6 +60,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0210 | [Course Schedule II](./0210-course-schedule-ii/README.md) | Medium | Java | [Solution](./0210-course-schedule-ii/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
 | 0215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array/README.md) | Medium | Java | [Solution](./0215-kth-largest-element-in-an-array/Solution.java) |
+| 0217 | [Contains Duplicate](./0217-contains-duplicate/README.md) | Easy | Java | [Solution](./0217-contains-duplicate/Solution.java) |
 | 0222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes/README.md) | Medium | Java | [Solution](./0222-count-complete-tree-nodes/Solution.java) |
 | 0225 | [Implement Stack using Queues](./0225-implement-stack-using-queues/README.md) | Easy | Java | [Solution](./0225-implement-stack-using-queues/Solution.java) |
 | 0226 | [Invert Binary Tree](./0226-invert-binary-tree/README.md) | Easy | Java | [Solution](./0226-invert-binary-tree/Solution.java) |
