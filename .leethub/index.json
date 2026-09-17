@@ -2071,5 +2071,22 @@
     "url": "https://leetcode.com/problems/single-number/",
     "submissionId": "2144879136",
     "updatedAt": "2026-09-17T15:46:38.163Z"
+  },
+  {
+    "number": "0191",
+    "title": "Number of 1 Bits",
+    "slug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0191-number-of-1-bits",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/number-of-1-bits/",
+    "submissionId": "2144881974",
+    "updatedAt": "2026-09-17T15:49:29.476Z"
   }
 ]
