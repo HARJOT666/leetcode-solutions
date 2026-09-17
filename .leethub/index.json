@@ -2088,5 +2088,23 @@
     "url": "https://leetcode.com/problems/number-of-1-bits/",
     "submissionId": "2144881974",
     "updatedAt": "2026-09-17T15:49:29.476Z"
+  },
+  {
+    "number": "0189",
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0189-rotate-array",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/rotate-array/",
+    "submissionId": "2144888674",
+    "updatedAt": "2026-09-17T15:55:47.742Z"
   }
 ]
