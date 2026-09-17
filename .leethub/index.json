@@ -2019,5 +2019,22 @@
     "url": "https://leetcode.com/problems/contains-duplicate/",
     "submissionId": "2144813147",
     "updatedAt": "2026-09-17T14:38:13.500Z"
+  },
+  {
+    "number": "0283",
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0283-move-zeroes",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/move-zeroes/",
+    "submissionId": "2144834889",
+    "updatedAt": "2026-09-17T15:01:21.998Z"
   }
 ]

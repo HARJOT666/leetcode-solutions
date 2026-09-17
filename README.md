@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 109
-- **Easy:** 32
+- **Total solved:** 110
+- **Easy:** 33
 - **Medium:** 72
 - **Hard:** 5
 
@@ -73,6 +73,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0257 | [Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | Java | [Solution](./0257-binary-tree-paths/Solution.java) |
 | 0263 | [Ugly Number](./0263-ugly-number/README.md) | Easy | Java | [Solution](./0263-ugly-number/Solution.java) |
 | 0264 | [Ugly Number II](./0264-ugly-number-ii/README.md) | Medium | Java | [Solution](./0264-ugly-number-ii/Solution.java) |
+| 0283 | [Move Zeroes](./0283-move-zeroes/README.md) | Easy | Java | [Solution](./0283-move-zeroes/Solution.java) |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | Medium | Java | [Solution](./0309-best-time-to-buy-and-sell-stock-with-cooldown/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
 | 0347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/README.md) | Medium | Java | [Solution](./0347-top-k-frequent-elements/Solution.java) |
