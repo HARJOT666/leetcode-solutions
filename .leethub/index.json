@@ -2123,5 +2123,24 @@
     "url": "https://leetcode.com/problems/house-robber/",
     "submissionId": "2146104676",
     "updatedAt": "2026-09-18T19:47:14.705Z"
+  },
+  {
+    "number": "0389",
+    "title": "Find the Difference",
+    "slug": "find-the-difference",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0389-find-the-difference",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-the-difference/",
+    "submissionId": "2146129190",
+    "updatedAt": "2026-09-18T20:38:27.387Z"
   }
 ]

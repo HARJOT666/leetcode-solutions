@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 115
-- **Easy:** 35
+- **Total solved:** 116
+- **Easy:** 36
 - **Medium:** 75
 - **Hard:** 5
 
@@ -82,6 +82,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | Medium | Java | [Solution](./0309-best-time-to-buy-and-sell-stock-with-cooldown/Solution.java) |
 | 0322 | [Coin Change](./0322-coin-change/README.md) | Medium | Java | [Solution](./0322-coin-change/Solution.java) |
 | 0347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/README.md) | Medium | Java | [Solution](./0347-top-k-frequent-elements/Solution.java) |
+| 0389 | [Find the Difference](./0389-find-the-difference/README.md) | Easy | Java | [Solution](./0389-find-the-difference/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
 | 0451 | [Sort Characters By Frequency](./0451-sort-characters-by-frequency/README.md) | Medium | Java | [Solution](./0451-sort-characters-by-frequency/Solution.java) |
