@@ -2106,5 +2106,22 @@
     "url": "https://leetcode.com/problems/rotate-array/",
     "submissionId": "2144888674",
     "updatedAt": "2026-09-17T15:55:47.742Z"
+  },
+  {
+    "number": "0198",
+    "title": "House Robber",
+    "slug": "house-robber",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0198-house-robber",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/house-robber/",
+    "submissionId": "2146104676",
+    "updatedAt": "2026-09-18T19:47:14.705Z"
   }
 ]

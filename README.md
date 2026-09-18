@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 114
+- **Total solved:** 115
 - **Easy:** 35
-- **Medium:** 74
+- **Medium:** 75
 - **Hard:** 5
 
 ## Problems
@@ -55,6 +55,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Java | [Solution](./0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 0189 | [Rotate Array](./0189-rotate-array/README.md) | Medium | Java | [Solution](./0189-rotate-array/Solution.java) |
 | 0191 | [Number of 1 Bits](./0191-number-of-1-bits/README.md) | Easy | Java | [Solution](./0191-number-of-1-bits/Solution.java) |
+| 0198 | [House Robber](./0198-house-robber/README.md) | Medium | Java | [Solution](./0198-house-robber/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
 | 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
