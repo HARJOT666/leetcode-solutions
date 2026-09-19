@@ -46,7 +46,7 @@ Explanation: There is no such common subsequence, so the result is 0.
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 19 ms
-- **Memory:** 54.1 MB
+- **Runtime:** 20 ms
+- **Memory:** 53.8 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-21.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-19.
