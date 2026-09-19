@@ -4,10 +4,10 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 116
+- **Total solved:** 117
 - **Easy:** 36
 - **Medium:** 75
-- **Hard:** 5
+- **Hard:** 6
 
 ## Problems
 
@@ -122,6 +122,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 1020 | [Number of Enclaves](./1020-number-of-enclaves/README.md) | Medium | Java | [Solution](./1020-number-of-enclaves/Solution.java) |
 | 1035 | [Uncrossed Lines](./1035-uncrossed-lines/README.md) | Medium | Java | [Solution](./1035-uncrossed-lines/Solution.java) |
 | 1046 | [Last Stone Weight](./1046-last-stone-weight/README.md) | Easy | Java | [Solution](./1046-last-stone-weight/Solution.java) |
+| 1092 | [Shortest Common Supersequence ](./1092-shortest-common-supersequence/README.md) | Hard | Java | [Solution](./1092-shortest-common-supersequence/Solution.java) |
 | 1143 | [Longest Common Subsequence](./1143-longest-common-subsequence/README.md) | Medium | Java | [Solution](./1143-longest-common-subsequence/Solution.java) |
 | 1305 | [All Elements in Two Binary Search Trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | Java | [Solution](./1305-all-elements-in-two-binary-search-trees/Solution.java) |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md) | Hard | Java | [Solution](./1312-minimum-insertion-steps-to-make-a-string-palindrome/Solution.java) |
