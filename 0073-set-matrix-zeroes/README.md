@@ -44,7 +44,7 @@ Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 137 ms
+- **Runtime:** 12 ms
 - **Memory:** 47.7 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-09-03.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-19.
