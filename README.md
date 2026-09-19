@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 117
+- **Total solved:** 118
 - **Easy:** 36
-- **Medium:** 75
+- **Medium:** 76
 - **Hard:** 6
 
 ## Problems
@@ -29,6 +29,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0040 | [Combination Sum II](./0040-combination-sum-ii/README.md) | Medium | Java | [Solution](./0040-combination-sum-ii/Solution.java) |
 | 0046 | [Permutations](./0046-permutations/README.md) | Medium | Java | [Solution](./0046-permutations/Solution.java) |
 | 0049 | [Group Anagrams](./0049-group-anagrams/README.md) | Medium | Java | [Solution](./0049-group-anagrams/Solution.java) |
+| 0053 | [Maximum Subarray](./0053-maximum-subarray/README.md) | Medium | Java | [Solution](./0053-maximum-subarray/Solution.java) |
 | 0054 | [Spiral Matrix](./0054-spiral-matrix/README.md) | Medium | Java | [Solution](./0054-spiral-matrix/Solution.java) |
 | 0056 | [Merge Intervals](./0056-merge-intervals/README.md) | Medium | Java | [Solution](./0056-merge-intervals/Solution.java) |
 | 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |

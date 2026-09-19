@@ -2160,5 +2160,23 @@
     "url": "https://leetcode.com/problems/shortest-common-supersequence/",
     "submissionId": "2146503958",
     "updatedAt": "2026-09-19T09:27:57.053Z"
+  },
+  {
+    "number": "0053",
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0053-maximum-subarray",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "submissionId": "2146511206",
+    "updatedAt": "2026-09-19T09:37:25.262Z"
   }
 ]
