@@ -35,6 +35,6 @@ Output: 5.00000
 
 - **Language:** Java
 - **Runtime:** 3 ms
-- **Memory:** 69.6 MB
+- **Memory:** 69.8 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-09-05.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-20.
