@@ -32,7 +32,7 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 ## Solution
 
 - **Language:** Java
-- **Runtime:** 48 ms
-- **Memory:** 47.8 MB
+- **Runtime:** 91 ms
+- **Memory:** 75.5 MB
 
-> Synced automatically from an Accepted LeetCode submission on 2026-08-19.
+> Synced automatically from an Accepted LeetCode submission on 2026-09-20.

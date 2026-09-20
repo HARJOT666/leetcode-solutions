@@ -1,7 +1,6 @@
 class Solution {
     public boolean canPartition(int[] nums) {
         int n = nums.length;
-        
         int sum = 0;
         for(int i=0;i<n;i++){
             sum+= nums[i];
@@ -10,31 +9,31 @@ class Solution {
             return false;
         }
         int target = sum/2;
-        return subsetSum(nums,target);
+        Boolean[][] dp = new Boolean[n+1][target+1];
+       
+        return subsetSum(0,nums,target,dp);
     }
-    public boolean subsetSum(int[] nums,int target){
+    public boolean subsetSum(int i,int[] nums,int target,Boolean[][] dp){
         //base condition
         if(target == 0 || nums.length == 0){
             return true;
+
         }
-        int n = nums.length;
-        boolean[][] dp = new boolean[nums.length+1][target + 1]; // matrix for storing result
-        //INitialization
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = true;
+        if(i == nums.length || target < 0){
+            return false;
         }
-        //recursion
-        for(int i = 1;i<=n;i++){
-            for(int j=1;j<=target;j++){
-                if(nums[i-1] <=j){
-                    dp[i][j] = dp[i-1][j-nums[i-1]] || dp[i-1][j];
-                }
-                else{
-                    dp[i][j] = dp[i-1][j];
-                }
-            }
+        if(dp[i][target] != null){
+            return dp[i][target];
         }
-        return dp[n][target];
-        
+
+        //2 choices
+        //1 take=
+        boolean take = subsetSum(i+1,nums,target - nums[i],dp);
+        //2 not take
+        boolean nottake = subsetSum(i+1,nums,target,dp);
+
+        dp[i][target] = take || nottake;
+
+        return dp[i][target];
     }
 }
