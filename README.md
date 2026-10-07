@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 118
+- **Total solved:** 119
 - **Easy:** 36
-- **Medium:** 76
+- **Medium:** 77
 - **Hard:** 6
 
 ## Problems
@@ -51,6 +51,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0131 | [Palindrome Partitioning](./0131-palindrome-partitioning/README.md) | Medium | Java | [Solution](./0131-palindrome-partitioning/Solution.java) |
 | 0136 | [Single Number](./0136-single-number/README.md) | Easy | Java | [Solution](./0136-single-number/Solution.java) |
 | 0150 | [Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | Java | [Solution](./0150-evaluate-reverse-polish-notation/Solution.java) |
+| 0152 | [Maximum Product Subarray](./0152-maximum-product-subarray/README.md) | Medium | Java | [Solution](./0152-maximum-product-subarray/Solution.java) |
 | 0154 | [Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii/README.md) | Hard | Java | [Solution](./0154-find-minimum-in-rotated-sorted-array-ii/Solution.java) |
 | 0155 | [Min Stack](./0155-min-stack/README.md) | Medium | Java | [Solution](./0155-min-stack/Solution.java) |
 | 0167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Java | [Solution](./0167-two-sum-ii-input-array-is-sorted/Solution.java) |

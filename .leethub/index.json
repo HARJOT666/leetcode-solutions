@@ -2178,5 +2178,22 @@
     "url": "https://leetcode.com/problems/maximum-subarray/",
     "submissionId": "2146511206",
     "updatedAt": "2026-09-19T09:37:25.262Z"
+  },
+  {
+    "number": "0152",
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0152-maximum-product-subarray",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "submissionId": "2165206469",
+    "updatedAt": "2026-10-07T11:04:56.499Z"
   }
 ]
