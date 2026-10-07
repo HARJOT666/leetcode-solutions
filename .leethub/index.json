@@ -2195,5 +2195,23 @@
     "url": "https://leetcode.com/problems/maximum-product-subarray/",
     "submissionId": "2165206469",
     "updatedAt": "2026-10-07T11:04:56.499Z"
+  },
+  {
+    "number": "1137",
+    "title": "N-th Tribonacci Number",
+    "slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1137-n-th-tribonacci-number",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+    "submissionId": "2165216498",
+    "updatedAt": "2026-10-07T11:18:18.679Z"
   }
 ]
