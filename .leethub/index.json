@@ -2230,5 +2230,24 @@
     "url": "https://leetcode.com/problems/decode-ways/",
     "submissionId": "2166293959",
     "updatedAt": "2026-10-08T12:14:31.891Z"
+  },
+  {
+    "number": "0005",
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Manacher"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0005-longest-palindromic-substring",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "submissionId": "2166349470",
+    "updatedAt": "2026-10-08T13:25:49.851Z"
   }
 ]
