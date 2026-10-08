@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 123
-- **Easy:** 38
+- **Total solved:** 124
+- **Easy:** 39
 - **Medium:** 79
 - **Hard:** 6
 
@@ -120,6 +120,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
+| 0953 | [Verifying an Alien Dictionary](./0953-verifying-an-alien-dictionary/README.md) | Easy | Java | [Solution](./0953-verifying-an-alien-dictionary/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 0994 | [Rotting Oranges](./0994-rotting-oranges/README.md) | Medium | Java | [Solution](./0994-rotting-oranges/Solution.java) |

@@ -2268,5 +2268,23 @@
     "url": "https://leetcode.com/problems/island-perimeter/",
     "submissionId": "2166557352",
     "updatedAt": "2026-10-08T16:59:21.500Z"
+  },
+  {
+    "number": "0953",
+    "title": "Verifying an Alien Dictionary",
+    "slug": "verifying-an-alien-dictionary",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0953-verifying-an-alien-dictionary",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+    "submissionId": "2166620553",
+    "updatedAt": "2026-10-08T17:54:13.631Z"
   }
 ]
