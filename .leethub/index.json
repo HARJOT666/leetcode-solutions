@@ -2213,5 +2213,22 @@
     "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
     "submissionId": "2165216498",
     "updatedAt": "2026-10-07T11:18:18.679Z"
+  },
+  {
+    "number": "0091",
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0091-decode-ways",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/decode-ways/",
+    "submissionId": "2166293959",
+    "updatedAt": "2026-10-08T12:14:31.891Z"
   }
 ]
