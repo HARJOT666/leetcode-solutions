@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 122
-- **Easy:** 37
+- **Total solved:** 123
+- **Easy:** 38
 - **Medium:** 79
 - **Hard:** 6
 
@@ -90,6 +90,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
 | 0451 | [Sort Characters By Frequency](./0451-sort-characters-by-frequency/README.md) | Medium | Java | [Solution](./0451-sort-characters-by-frequency/Solution.java) |
+| 0463 | [Island Perimeter](./0463-island-perimeter/README.md) | Easy | Java | [Solution](./0463-island-perimeter/Solution.java) |
 | 0513 | [Find Bottom Left Tree Value](./0513-find-bottom-left-tree-value/README.md) | Medium | Java | [Solution](./0513-find-bottom-left-tree-value/Solution.java) |
 | 0516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence/README.md) | Medium | Java | [Solution](./0516-longest-palindromic-subsequence/Solution.java) |
 | 0518 | [Coin Change II](./0518-coin-change-ii/README.md) | Medium | Java | [Solution](./0518-coin-change-ii/Solution.java) |

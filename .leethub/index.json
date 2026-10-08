@@ -2249,5 +2249,24 @@
     "url": "https://leetcode.com/problems/longest-palindromic-substring/",
     "submissionId": "2166349470",
     "updatedAt": "2026-10-08T13:25:49.851Z"
+  },
+  {
+    "number": "0463",
+    "title": "Island Perimeter",
+    "slug": "island-perimeter",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0463-island-perimeter",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/island-perimeter/",
+    "submissionId": "2166557352",
+    "updatedAt": "2026-10-08T16:59:21.500Z"
   }
 ]
