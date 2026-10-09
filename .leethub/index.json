@@ -2286,5 +2286,23 @@
     "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
     "submissionId": "2166620553",
     "updatedAt": "2026-10-08T17:54:13.631Z"
+  },
+  {
+    "number": "0997",
+    "title": "Find the Town Judge",
+    "slug": "find-the-town-judge",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Graph Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0997-find-the-town-judge",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/find-the-town-judge/",
+    "submissionId": "2167450742",
+    "updatedAt": "2026-10-09T16:11:40.871Z"
   }
 ]
