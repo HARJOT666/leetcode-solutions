@@ -2304,5 +2304,24 @@
     "url": "https://leetcode.com/problems/find-the-town-judge/",
     "submissionId": "2167450742",
     "updatedAt": "2026-10-09T16:11:40.871Z"
+  },
+  {
+    "number": "0133",
+    "title": "Clone Graph",
+    "slug": "clone-graph",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0133-clone-graph",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/clone-graph/",
+    "submissionId": "2167479270",
+    "updatedAt": "2026-10-09T16:41:50.118Z"
   }
 ]
