@@ -2323,5 +2323,24 @@
     "url": "https://leetcode.com/problems/clone-graph/",
     "submissionId": "2167479270",
     "updatedAt": "2026-10-09T16:41:50.118Z"
+  },
+  {
+    "number": "0417",
+    "title": "Pacific Atlantic Water Flow",
+    "slug": "pacific-atlantic-water-flow",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0417-pacific-atlantic-water-flow",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "submissionId": "2167615652",
+    "updatedAt": "2026-10-09T19:04:46.475Z"
   }
 ]
