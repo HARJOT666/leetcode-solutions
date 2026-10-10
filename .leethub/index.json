@@ -2362,5 +2362,24 @@
     "url": "https://leetcode.com/problems/open-the-lock/",
     "submissionId": "2168082447",
     "updatedAt": "2026-10-10T11:08:44.817Z"
+  },
+  {
+    "number": "1462",
+    "title": "Course Schedule IV",
+    "slug": "course-schedule-iv",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1462-course-schedule-iv",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/course-schedule-iv/",
+    "submissionId": "2168129845",
+    "updatedAt": "2026-10-10T12:22:46.672Z"
   }
 ]
