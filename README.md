@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 127
+- **Total solved:** 128
 - **Easy:** 40
-- **Medium:** 81
+- **Medium:** 82
 - **Hard:** 6
 
 ## Problems
@@ -116,6 +116,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0735 | [Asteroid Collision](./0735-asteroid-collision/README.md) | Medium | Java | [Solution](./0735-asteroid-collision/Solution.java) |
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
 | 0746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | Easy | Java | [Solution](./0746-min-cost-climbing-stairs/Solution.java) |
+| 0752 | [Open the Lock](./0752-open-the-lock/README.md) | Medium | Java | [Solution](./0752-open-the-lock/Solution.java) |
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
 | 0802 | [Find Eventual Safe States](./0802-find-eventual-safe-states/README.md) | Medium | Java | [Solution](./0802-find-eventual-safe-states/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |

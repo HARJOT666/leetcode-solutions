@@ -2342,5 +2342,25 @@
     "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
     "submissionId": "2167615652",
     "updatedAt": "2026-10-09T19:04:46.475Z"
+  },
+  {
+    "number": "0752",
+    "title": "Open the Lock",
+    "slug": "open-the-lock",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0752-open-the-lock",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/open-the-lock/",
+    "submissionId": "2168082447",
+    "updatedAt": "2026-10-10T11:08:44.817Z"
   }
 ]
