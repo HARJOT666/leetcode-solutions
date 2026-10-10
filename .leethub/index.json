@@ -2400,5 +2400,23 @@
     "url": "https://leetcode.com/problems/redundant-connection/",
     "submissionId": "2168147076",
     "updatedAt": "2026-10-10T12:48:40.432Z"
+  },
+  {
+    "number": "0682",
+    "title": "Baseball Game",
+    "slug": "baseball-game",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0682-baseball-game",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/baseball-game/",
+    "submissionId": "2168165218",
+    "updatedAt": "2026-10-10T13:14:04.291Z"
   }
 ]
