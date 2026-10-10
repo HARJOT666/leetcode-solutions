@@ -2418,5 +2418,28 @@
     "url": "https://leetcode.com/problems/baseball-game/",
     "submissionId": "2168165218",
     "updatedAt": "2026-10-10T13:14:04.291Z"
+  },
+  {
+    "number": "1631",
+    "title": "Path With Minimum Effort",
+    "slug": "path-with-minimum-effort",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Dijkstra's Algorithm"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1631-path-with-minimum-effort",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "submissionId": "2168653776",
+    "updatedAt": "2026-10-10T21:32:55.176Z"
   }
 ]
