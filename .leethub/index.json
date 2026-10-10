@@ -2381,5 +2381,24 @@
     "url": "https://leetcode.com/problems/course-schedule-iv/",
     "submissionId": "2168129845",
     "updatedAt": "2026-10-10T12:22:46.672Z"
+  },
+  {
+    "number": "0684",
+    "title": "Redundant Connection",
+    "slug": "redundant-connection",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0684-redundant-connection",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/redundant-connection/",
+    "submissionId": "2168147076",
+    "updatedAt": "2026-10-10T12:48:40.432Z"
   }
 ]

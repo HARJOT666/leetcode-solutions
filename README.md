@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 129
+- **Total solved:** 130
 - **Easy:** 40
-- **Medium:** 83
+- **Medium:** 84
 - **Hard:** 6
 
 ## Problems
@@ -107,6 +107,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0658 | [Find K Closest Elements](./0658-find-k-closest-elements/README.md) | Medium | Java | [Solution](./0658-find-k-closest-elements/Solution.java) |
+| 0684 | [Redundant Connection](./0684-redundant-connection/README.md) | Medium | Java | [Solution](./0684-redundant-connection/Solution.java) |
 | 0695 | [Max Area of Island](./0695-max-area-of-island/README.md) | Medium | Java | [Solution](./0695-max-area-of-island/Solution.java) |
 | 0700 | [Search in a Binary Search Tree](./0700-search-in-a-binary-search-tree/README.md) | Easy | Java | [Solution](./0700-search-in-a-binary-search-tree/Solution.java) |
 | 0704 | [Binary Search](./0704-binary-search/README.md) | Easy | Java | [Solution](./0704-binary-search/Solution.java) |
