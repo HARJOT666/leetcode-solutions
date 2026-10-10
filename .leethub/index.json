@@ -2441,5 +2441,26 @@
     "url": "https://leetcode.com/problems/path-with-minimum-effort/",
     "submissionId": "2168653776",
     "updatedAt": "2026-10-10T21:32:55.176Z"
+  },
+  {
+    "number": "0743",
+    "title": "Network Delay Time",
+    "slug": "network-delay-time",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Dijkstra's Algorithm"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0743-network-delay-time",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/network-delay-time/",
+    "submissionId": "2168659015",
+    "updatedAt": "2026-10-10T21:48:03.172Z"
   }
 ]

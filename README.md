@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 132
+- **Total solved:** 133
 - **Easy:** 41
-- **Medium:** 85
+- **Medium:** 86
 - **Hard:** 6
 
 ## Problems
@@ -117,6 +117,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0733 | [Flood Fill](./0733-flood-fill/README.md) | Easy | Java | [Solution](./0733-flood-fill/Solution.java) |
 | 0735 | [Asteroid Collision](./0735-asteroid-collision/README.md) | Medium | Java | [Solution](./0735-asteroid-collision/Solution.java) |
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
+| 0743 | [Network Delay Time](./0743-network-delay-time/README.md) | Medium | Java | [Solution](./0743-network-delay-time/Solution.java) |
 | 0746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | Easy | Java | [Solution](./0746-min-cost-climbing-stairs/Solution.java) |
 | 0752 | [Open the Lock](./0752-open-the-lock/README.md) | Medium | Java | [Solution](./0752-open-the-lock/Solution.java) |
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
