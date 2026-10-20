@@ -2533,5 +2533,23 @@
     "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
     "submissionId": "2177104201",
     "updatedAt": "2026-10-20T13:39:34.157Z"
+  },
+  {
+    "number": "0978",
+    "title": "Longest Turbulent Subarray",
+    "slug": "longest-turbulent-subarray",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0978-longest-turbulent-subarray",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/longest-turbulent-subarray/",
+    "submissionId": "2177169350",
+    "updatedAt": "2026-10-20T14:59:21.079Z"
   }
 ]

@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 137
+- **Total solved:** 138
 - **Easy:** 44
-- **Medium:** 87
+- **Medium:** 88
 - **Hard:** 6
 
 ## Problems
@@ -132,6 +132,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0918 | [Maximum Sum Circular Subarray](./0918-maximum-sum-circular-subarray/README.md) | Medium | Java | [Solution](./0918-maximum-sum-circular-subarray/Solution.java) |
 | 0953 | [Verifying an Alien Dictionary](./0953-verifying-an-alien-dictionary/README.md) | Easy | Java | [Solution](./0953-verifying-an-alien-dictionary/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
+| 0978 | [Longest Turbulent Subarray](./0978-longest-turbulent-subarray/README.md) | Medium | Java | [Solution](./0978-longest-turbulent-subarray/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
 | 0994 | [Rotting Oranges](./0994-rotting-oranges/README.md) | Medium | Java | [Solution](./0994-rotting-oranges/Solution.java) |
 | 0997 | [Find the Town Judge](./0997-find-the-town-judge/README.md) | Easy | Java | [Solution](./0997-find-the-town-judge/Solution.java) |
