@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 138
+- **Total solved:** 139
 - **Easy:** 44
-- **Medium:** 88
+- **Medium:** 89
 - **Hard:** 6
 
 ## Problems
@@ -68,6 +68,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | Easy | Java | [Solution](./0206-reverse-linked-list/Solution.java) |
 | 0207 | [Course Schedule](./0207-course-schedule/README.md) | Medium | Java | [Solution](./0207-course-schedule/Solution.java) |
+| 0209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | Medium | Java | [Solution](./0209-minimum-size-subarray-sum/Solution.java) |
 | 0210 | [Course Schedule II](./0210-course-schedule-ii/README.md) | Medium | Java | [Solution](./0210-course-schedule-ii/Solution.java) |
 | 0213 | [House Robber II](./0213-house-robber-ii/README.md) | Medium | Java | [Solution](./0213-house-robber-ii/Solution.java) |
 | 0215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array/README.md) | Medium | Java | [Solution](./0215-kth-largest-element-in-an-array/Solution.java) |

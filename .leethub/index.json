@@ -2551,5 +2551,24 @@
     "url": "https://leetcode.com/problems/longest-turbulent-subarray/",
     "submissionId": "2177169350",
     "updatedAt": "2026-10-20T14:59:21.079Z"
+  },
+  {
+    "number": "0209",
+    "title": "Minimum Size Subarray Sum",
+    "slug": "minimum-size-subarray-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0209-minimum-size-subarray-sum",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "submissionId": "2177182237",
+    "updatedAt": "2026-10-20T15:16:21.529Z"
   }
 ]
