@@ -2513,5 +2513,25 @@
     "url": "https://leetcode.com/problems/lemonade-change/",
     "submissionId": "2177086690",
     "updatedAt": "2026-10-20T13:17:25.496Z"
+  },
+  {
+    "number": "0918",
+    "title": "Maximum Sum Circular Subarray",
+    "slug": "maximum-sum-circular-subarray",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Queue",
+      "Monotonic Queue"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0918-maximum-sum-circular-subarray",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+    "submissionId": "2177104201",
+    "updatedAt": "2026-10-20T13:39:34.157Z"
   }
 ]

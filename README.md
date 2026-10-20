@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 136
+- **Total solved:** 137
 - **Easy:** 44
-- **Medium:** 86
+- **Medium:** 87
 - **Hard:** 6
 
 ## Problems
@@ -129,6 +129,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0860 | [Lemonade Change](./0860-lemonade-change/README.md) | Easy | Java | [Solution](./0860-lemonade-change/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
+| 0918 | [Maximum Sum Circular Subarray](./0918-maximum-sum-circular-subarray/README.md) | Medium | Java | [Solution](./0918-maximum-sum-circular-subarray/Solution.java) |
 | 0953 | [Verifying an Alien Dictionary](./0953-verifying-an-alien-dictionary/README.md) | Easy | Java | [Solution](./0953-verifying-an-alien-dictionary/Solution.java) |
 | 0973 | [K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | Java | [Solution](./0973-k-closest-points-to-origin/Solution.java) |
 | 0993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree/README.md) | Easy | Java | [Solution](./0993-cousins-in-binary-tree/Solution.java) |
