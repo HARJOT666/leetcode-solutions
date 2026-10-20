@@ -2496,5 +2496,22 @@
     "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
     "submissionId": "2177038708",
     "updatedAt": "2026-10-20T12:09:45.784Z"
+  },
+  {
+    "number": "0860",
+    "title": "Lemonade Change",
+    "slug": "lemonade-change",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0860-lemonade-change",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/lemonade-change/",
+    "submissionId": "2177086690",
+    "updatedAt": "2026-10-20T13:17:25.496Z"
   }
 ]

@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 135
-- **Easy:** 43
+- **Total solved:** 136
+- **Easy:** 44
 - **Medium:** 86
 - **Hard:** 6
 
@@ -126,6 +126,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0802 | [Find Eventual Safe States](./0802-find-eventual-safe-states/README.md) | Medium | Java | [Solution](./0802-find-eventual-safe-states/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
+| 0860 | [Lemonade Change](./0860-lemonade-change/README.md) | Easy | Java | [Solution](./0860-lemonade-change/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
 | 0953 | [Verifying an Alien Dictionary](./0953-verifying-an-alien-dictionary/README.md) | Easy | Java | [Solution](./0953-verifying-an-alien-dictionary/Solution.java) |
