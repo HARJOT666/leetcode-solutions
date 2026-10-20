@@ -2462,5 +2462,22 @@
     "url": "https://leetcode.com/problems/network-delay-time/",
     "submissionId": "2168659015",
     "updatedAt": "2026-10-10T21:48:03.172Z"
+  },
+  {
+    "number": "0035",
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0035-search-insert-position",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "submissionId": "2177028568",
+    "updatedAt": "2026-10-20T11:54:22.259Z"
   }
 ]
