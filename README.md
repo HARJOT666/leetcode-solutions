@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 139
+- **Total solved:** 140
 - **Easy:** 44
-- **Medium:** 89
+- **Medium:** 90
 - **Hard:** 6
 
 ## Problems
@@ -105,6 +105,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree/README.md) | Easy | Java | [Solution](./0543-diameter-of-binary-tree/Solution.java) |
 | 0547 | [Number of Provinces](./0547-number-of-provinces/README.md) | Medium | Java | [Solution](./0547-number-of-provinces/Solution.java) |
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
+| 0567 | [Permutation in String](./0567-permutation-in-string/README.md) | Medium | Java | [Solution](./0567-permutation-in-string/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
 | 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |

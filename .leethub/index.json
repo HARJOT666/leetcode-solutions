@@ -2570,5 +2570,24 @@
     "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
     "submissionId": "2177182237",
     "updatedAt": "2026-10-20T15:16:21.529Z"
+  },
+  {
+    "number": "0567",
+    "title": "Permutation in String",
+    "slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0567-permutation-in-string",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/permutation-in-string/",
+    "submissionId": "2177230531",
+    "updatedAt": "2026-10-20T16:15:50.306Z"
   }
 ]
