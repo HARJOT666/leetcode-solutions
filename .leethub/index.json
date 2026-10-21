@@ -2698,5 +2698,26 @@
     "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
     "submissionId": "2178169389",
     "updatedAt": "2026-10-21T17:05:49.929Z"
+  },
+  {
+    "number": "1863",
+    "title": "Sum of All Subset XOR Totals",
+    "slug": "sum-of-all-subset-xor-totals",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1863-sum-of-all-subset-xor-totals",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+    "submissionId": "2178237592",
+    "updatedAt": "2026-10-21T18:09:19.680Z"
   }
 ]
