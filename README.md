@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 144
+- **Total solved:** 145
 - **Easy:** 46
-- **Medium:** 92
+- **Medium:** 93
 - **Hard:** 6
 
 ## Problems
@@ -131,6 +131,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
 | 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
 | 0860 | [Lemonade Change](./0860-lemonade-change/README.md) | Easy | Java | [Solution](./0860-lemonade-change/Solution.java) |
+| 0881 | [Boats to Save People](./0881-boats-to-save-people/README.md) | Medium | Java | [Solution](./0881-boats-to-save-people/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
 | 0901 | [Online Stock Span](./0901-online-stock-span/README.md) | Medium | Java | [Solution](./0901-online-stock-span/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |

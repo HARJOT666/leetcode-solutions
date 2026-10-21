@@ -2660,5 +2660,25 @@
     "url": "https://leetcode.com/problems/merge-strings-alternately/",
     "submissionId": "2178086603",
     "updatedAt": "2026-10-21T15:40:00.577Z"
+  },
+  {
+    "number": "0881",
+    "title": "Boats to Save People",
+    "slug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Timsort"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0881-boats-to-save-people",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/boats-to-save-people/",
+    "submissionId": "2178108482",
+    "updatedAt": "2026-10-21T16:04:16.994Z"
   }
 ]
