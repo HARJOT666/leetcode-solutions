@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 142
-- **Easy:** 44
+- **Total solved:** 143
+- **Easy:** 45
 - **Medium:** 92
 - **Hard:** 6
 
@@ -112,6 +112,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0658 | [Find K Closest Elements](./0658-find-k-closest-elements/README.md) | Medium | Java | [Solution](./0658-find-k-closest-elements/Solution.java) |
+| 0680 | [Valid Palindrome II](./0680-valid-palindrome-ii/README.md) | Easy | Java | [Solution](./0680-valid-palindrome-ii/Solution.java) |
 | 0682 | [Baseball Game](./0682-baseball-game/README.md) | Easy | Java | [Solution](./0682-baseball-game/Solution.java) |
 | 0684 | [Redundant Connection](./0684-redundant-connection/README.md) | Medium | Java | [Solution](./0684-redundant-connection/Solution.java) |
 | 0695 | [Max Area of Island](./0695-max-area-of-island/README.md) | Medium | Java | [Solution](./0695-max-area-of-island/Solution.java) |
