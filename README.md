@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 140
+- **Total solved:** 141
 - **Easy:** 44
-- **Medium:** 90
+- **Medium:** 91
 - **Hard:** 6
 
 ## Problems
@@ -36,6 +36,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0056 | [Merge Intervals](./0056-merge-intervals/README.md) | Medium | Java | [Solution](./0056-merge-intervals/Solution.java) |
 | 0057 | [Insert Interval](./0057-insert-interval/README.md) | Medium | Java | [Solution](./0057-insert-interval/Solution.java) |
 | 0062 | [Unique Paths](./0062-unique-paths/README.md) | Medium | Java | [Solution](./0062-unique-paths/Solution.java) |
+| 0071 | [Simplify Path](./0071-simplify-path/README.md) | Medium | Java | [Solution](./0071-simplify-path/Solution.java) |
 | 0072 | [Edit Distance](./0072-edit-distance/README.md) | Medium | Java | [Solution](./0072-edit-distance/Solution.java) |
 | 0073 | [Set Matrix Zeroes](./0073-set-matrix-zeroes/README.md) | Medium | Java | [Solution](./0073-set-matrix-zeroes/Solution.java) |
 | 0078 | [Subsets](./0078-subsets/README.md) | Medium | Java | [Solution](./0078-subsets/Solution.java) |

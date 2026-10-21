@@ -2589,5 +2589,22 @@
     "url": "https://leetcode.com/problems/permutation-in-string/",
     "submissionId": "2177230531",
     "updatedAt": "2026-10-20T16:15:50.306Z"
+  },
+  {
+    "number": "0071",
+    "title": "Simplify Path",
+    "slug": "simplify-path",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0071-simplify-path",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/simplify-path/",
+    "submissionId": "2177687252",
+    "updatedAt": "2026-10-21T06:38:56.038Z"
   }
 ]
