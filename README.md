@@ -4,8 +4,8 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 143
-- **Easy:** 45
+- **Total solved:** 144
+- **Easy:** 46
 - **Medium:** 92
 - **Hard:** 6
 
@@ -153,6 +153,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 1462 | [Course Schedule IV](./1462-course-schedule-iv/README.md) | Medium | Java | [Solution](./1462-course-schedule-iv/Solution.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/README.md) | Medium | Java | [Solution](./1541-minimum-insertions-to-balance-a-parentheses-string/Solution.java) |
 | 1631 | [Path With Minimum Effort](./1631-path-with-minimum-effort/README.md) | Medium | Java | [Solution](./1631-path-with-minimum-effort/Solution.java) |
+| 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | Easy | Java | [Solution](./1768-merge-strings-alternately/Solution.java) |
 | 1929 | [Concatenation of Array](./1929-concatenation-of-array/README.md) | Easy | Java | [Solution](./1929-concatenation-of-array/Solution.java) |
 | 1971 | [Find if Path Exists in Graph](./1971-find-if-path-exists-in-graph/README.md) | Easy | Java | [Solution](./1971-find-if-path-exists-in-graph/Solution.java) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md) | Medium | Java | [Solution](./2461-maximum-sum-of-distinct-subarrays-with-length-k/Solution.java) |

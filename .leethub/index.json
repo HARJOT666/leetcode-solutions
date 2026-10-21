@@ -2643,5 +2643,22 @@
     "url": "https://leetcode.com/problems/valid-palindrome-ii/",
     "submissionId": "2178082623",
     "updatedAt": "2026-10-21T15:35:13.490Z"
+  },
+  {
+    "number": "1768",
+    "title": "Merge Strings Alternately",
+    "slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "1768-merge-strings-alternately",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/merge-strings-alternately/",
+    "submissionId": "2178086603",
+    "updatedAt": "2026-10-21T15:40:00.577Z"
   }
 ]
