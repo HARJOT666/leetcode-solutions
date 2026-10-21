@@ -2680,5 +2680,23 @@
     "url": "https://leetcode.com/problems/boats-to-save-people/",
     "submissionId": "2178108482",
     "updatedAt": "2026-10-21T16:04:16.994Z"
+  },
+  {
+    "number": "0560",
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0560-subarray-sum-equals-k",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "submissionId": "2178169389",
+    "updatedAt": "2026-10-21T17:05:49.929Z"
   }
 ]

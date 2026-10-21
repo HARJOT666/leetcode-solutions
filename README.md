@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 145
+- **Total solved:** 146
 - **Easy:** 46
-- **Medium:** 93
+- **Medium:** 94
 - **Hard:** 6
 
 ## Problems
@@ -105,6 +105,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0542 | [01 Matrix](./0542-01-matrix/README.md) | Medium | Java | [Solution](./0542-01-matrix/Solution.java) |
 | 0543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree/README.md) | Easy | Java | [Solution](./0543-diameter-of-binary-tree/Solution.java) |
 | 0547 | [Number of Provinces](./0547-number-of-provinces/README.md) | Medium | Java | [Solution](./0547-number-of-provinces/Solution.java) |
+| 0560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k/README.md) | Medium | Java | [Solution](./0560-subarray-sum-equals-k/Solution.java) |
 | 0563 | [Binary Tree Tilt](./0563-binary-tree-tilt/README.md) | Easy | Java | [Solution](./0563-binary-tree-tilt/Solution.java) |
 | 0567 | [Permutation in String](./0567-permutation-in-string/README.md) | Medium | Java | [Solution](./0567-permutation-in-string/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
