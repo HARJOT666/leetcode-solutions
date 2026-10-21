@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 141
+- **Total solved:** 142
 - **Easy:** 44
-- **Medium:** 91
+- **Medium:** 92
 - **Hard:** 6
 
 ## Problems
@@ -131,6 +131,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
 | 0860 | [Lemonade Change](./0860-lemonade-change/README.md) | Easy | Java | [Solution](./0860-lemonade-change/Solution.java) |
 | 0897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | Java | [Solution](./0897-increasing-order-search-tree/Solution.java) |
+| 0901 | [Online Stock Span](./0901-online-stock-span/README.md) | Medium | Java | [Solution](./0901-online-stock-span/Solution.java) |
 | 0912 | [Sort an Array](./0912-sort-an-array/README.md) | Medium | Java | [Solution](./0912-sort-an-array/Solution.java) |
 | 0918 | [Maximum Sum Circular Subarray](./0918-maximum-sum-circular-subarray/README.md) | Medium | Java | [Solution](./0918-maximum-sum-circular-subarray/Solution.java) |
 | 0953 | [Verifying an Alien Dictionary](./0953-verifying-an-alien-dictionary/README.md) | Easy | Java | [Solution](./0953-verifying-an-alien-dictionary/Solution.java) |

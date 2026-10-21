@@ -2606,5 +2606,24 @@
     "url": "https://leetcode.com/problems/simplify-path/",
     "submissionId": "2177687252",
     "updatedAt": "2026-10-21T06:38:56.038Z"
+  },
+  {
+    "number": "0901",
+    "title": "Online Stock Span",
+    "slug": "online-stock-span",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0901-online-stock-span",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/online-stock-span/",
+    "submissionId": "2177696711",
+    "updatedAt": "2026-10-21T06:50:48.689Z"
   }
 ]
