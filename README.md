@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 147
+- **Total solved:** 148
 - **Easy:** 47
-- **Medium:** 94
+- **Medium:** 95
 - **Hard:** 6
 
 ## Problems
@@ -93,6 +93,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower/README.md) | Easy | Java | [Solution](./0374-guess-number-higher-or-lower/Solution.java) |
 | 0389 | [Find the Difference](./0389-find-the-difference/README.md) | Easy | Java | [Solution](./0389-find-the-difference/Solution.java) |
 | 0392 | [Is Subsequence](./0392-is-subsequence/README.md) | Easy | Java | [Solution](./0392-is-subsequence/Solution.java) |
+| 0399 | [Evaluate Division](./0399-evaluate-division/README.md) | Medium | Java | [Solution](./0399-evaluate-division/Solution.java) |
 | 0416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | Java | [Solution](./0416-partition-equal-subset-sum/Solution.java) |
 | 0417 | [Pacific Atlantic Water Flow](./0417-pacific-atlantic-water-flow/README.md) | Medium | Java | [Solution](./0417-pacific-atlantic-water-flow/Solution.java) |
 | 0451 | [Sort Characters By Frequency](./0451-sort-characters-by-frequency/README.md) | Medium | Java | [Solution](./0451-sort-characters-by-frequency/Solution.java) |

@@ -2719,5 +2719,29 @@
     "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
     "submissionId": "2178237592",
     "updatedAt": "2026-10-21T18:09:19.680Z"
+  },
+  {
+    "number": "0399",
+    "title": "Evaluate Division",
+    "slug": "evaluate-division",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory",
+      "Shortest Path",
+      "Bellman–Ford Algorithm",
+      "Floyd–Warshall Algorithm"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0399-evaluate-division",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/evaluate-division/",
+    "submissionId": "2178585434",
+    "updatedAt": "2026-10-22T06:39:22.149Z"
   }
 ]
