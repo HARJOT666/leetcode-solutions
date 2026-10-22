@@ -2765,5 +2765,26 @@
     "url": "https://leetcode.com/problems/accounts-merge/",
     "submissionId": "2178665751",
     "updatedAt": "2026-10-22T08:54:34.529Z"
+  },
+  {
+    "number": "0621",
+    "title": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0621-task-scheduler",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/task-scheduler/",
+    "submissionId": "2178702304",
+    "updatedAt": "2026-10-22T09:53:51.223Z"
   }
 ]

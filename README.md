@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 149
+- **Total solved:** 150
 - **Easy:** 47
-- **Medium:** 96
+- **Medium:** 97
 - **Hard:** 6
 
 ## Problems
@@ -111,6 +111,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0567 | [Permutation in String](./0567-permutation-in-string/README.md) | Medium | Java | [Solution](./0567-permutation-in-string/Solution.java) |
 | 0572 | [Subtree of Another Tree](./0572-subtree-of-another-tree/README.md) | Easy | Java | [Solution](./0572-subtree-of-another-tree/Solution.java) |
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
+| 0621 | [Task Scheduler](./0621-task-scheduler/README.md) | Medium | Java | [Solution](./0621-task-scheduler/Solution.java) |
 | 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0658 | [Find K Closest Elements](./0658-find-k-closest-elements/README.md) | Medium | Java | [Solution](./0658-find-k-closest-elements/Solution.java) |
