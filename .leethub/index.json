@@ -2743,5 +2743,27 @@
     "url": "https://leetcode.com/problems/evaluate-division/",
     "submissionId": "2178585434",
     "updatedAt": "2026-10-22T06:39:22.149Z"
+  },
+  {
+    "number": "0721",
+    "title": "Accounts Merge",
+    "slug": "accounts-merge",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0721-accounts-merge",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/accounts-merge/",
+    "submissionId": "2178665751",
+    "updatedAt": "2026-10-22T08:54:34.529Z"
   }
 ]

@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 148
+- **Total solved:** 149
 - **Easy:** 47
-- **Medium:** 95
+- **Medium:** 96
 - **Hard:** 6
 
 ## Problems
@@ -122,6 +122,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0704 | [Binary Search](./0704-binary-search/README.md) | Easy | Java | [Solution](./0704-binary-search/Solution.java) |
 | 0705 | [Design HashSet](./0705-design-hashset/README.md) | Easy | Java | [Solution](./0705-design-hashset/Solution.java) |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings/README.md) | Medium | Java | [Solution](./0712-minimum-ascii-delete-sum-for-two-strings/Solution.java) |
+| 0721 | [Accounts Merge](./0721-accounts-merge/README.md) | Medium | Java | [Solution](./0721-accounts-merge/Solution.java) |
 | 0733 | [Flood Fill](./0733-flood-fill/README.md) | Easy | Java | [Solution](./0733-flood-fill/Solution.java) |
 | 0735 | [Asteroid Collision](./0735-asteroid-collision/README.md) | Medium | Java | [Solution](./0735-asteroid-collision/Solution.java) |
 | 0739 | [Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | Java | [Solution](./0739-daily-temperatures/Solution.java) |
