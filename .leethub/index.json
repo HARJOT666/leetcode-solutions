@@ -2786,5 +2786,26 @@
     "url": "https://leetcode.com/problems/task-scheduler/",
     "submissionId": "2178702304",
     "updatedAt": "2026-10-22T09:53:51.223Z"
+  },
+  {
+    "number": "0767",
+    "title": "Reorganize String",
+    "slug": "reorganize-string",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0767-reorganize-string",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/reorganize-string/",
+    "submissionId": "2178720734",
+    "updatedAt": "2026-10-22T10:21:59.497Z"
   }
 ]
