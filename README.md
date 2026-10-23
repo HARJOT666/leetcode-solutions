@@ -4,10 +4,10 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 152
+- **Total solved:** 153
 - **Easy:** 47
 - **Medium:** 99
-- **Hard:** 6
+- **Hard:** 7
 
 ## Problems
 
@@ -54,6 +54,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0130 | [Surrounded Regions](./0130-surrounded-regions/README.md) | Medium | Java | [Solution](./0130-surrounded-regions/Solution.java) |
 | 0131 | [Palindrome Partitioning](./0131-palindrome-partitioning/README.md) | Medium | Java | [Solution](./0131-palindrome-partitioning/Solution.java) |
 | 0133 | [Clone Graph](./0133-clone-graph/README.md) | Medium | Java | [Solution](./0133-clone-graph/Solution.java) |
+| 0135 | [Candy](./0135-candy/README.md) | Hard | Java | [Solution](./0135-candy/Solution.java) |
 | 0136 | [Single Number](./0136-single-number/README.md) | Easy | Java | [Solution](./0136-single-number/Solution.java) |
 | 0150 | [Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | Java | [Solution](./0150-evaluate-reverse-polish-notation/Solution.java) |
 | 0152 | [Maximum Product Subarray](./0152-maximum-product-subarray/README.md) | Medium | Java | [Solution](./0152-maximum-product-subarray/Solution.java) |

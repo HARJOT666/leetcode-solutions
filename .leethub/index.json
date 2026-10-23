@@ -2826,5 +2826,22 @@
     "url": "https://leetcode.com/problems/hand-of-straights/",
     "submissionId": "2179534981",
     "updatedAt": "2026-10-23T09:37:23.741Z"
+  },
+  {
+    "number": "0135",
+    "title": "Candy",
+    "slug": "candy",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0135-candy",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/candy/",
+    "submissionId": "2179550094",
+    "updatedAt": "2026-10-23T10:00:04.339Z"
   }
 ]
