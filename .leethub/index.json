@@ -2807,5 +2807,24 @@
     "url": "https://leetcode.com/problems/reorganize-string/",
     "submissionId": "2178720734",
     "updatedAt": "2026-10-22T10:21:59.497Z"
+  },
+  {
+    "number": "0846",
+    "title": "Hand of Straights",
+    "slug": "hand-of-straights",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0846-hand-of-straights",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/hand-of-straights/",
+    "submissionId": "2179534981",
+    "updatedAt": "2026-10-23T09:37:23.741Z"
   }
 ]

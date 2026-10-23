@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 151
+- **Total solved:** 152
 - **Easy:** 47
-- **Medium:** 98
+- **Medium:** 99
 - **Hard:** 6
 
 ## Problems
@@ -134,6 +134,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0785 | [Is Graph Bipartite?](./0785-is-graph-bipartite/README.md) | Medium | Java | [Solution](./0785-is-graph-bipartite/Solution.java) |
 | 0802 | [Find Eventual Safe States](./0802-find-eventual-safe-states/README.md) | Medium | Java | [Solution](./0802-find-eventual-safe-states/Solution.java) |
 | 0814 | [Binary Tree Pruning](./0814-binary-tree-pruning/README.md) | Medium | Java | [Solution](./0814-binary-tree-pruning/Solution.java) |
+| 0846 | [Hand of Straights](./0846-hand-of-straights/README.md) | Medium | Java | [Solution](./0846-hand-of-straights/Solution.java) |
 | 0853 | [Car Fleet](./0853-car-fleet/README.md) | Medium | Java | [Solution](./0853-car-fleet/Solution.java) |
 | 0860 | [Lemonade Change](./0860-lemonade-change/README.md) | Easy | Java | [Solution](./0860-lemonade-change/Solution.java) |
 | 0881 | [Boats to Save People](./0881-boats-to-save-people/README.md) | Medium | Java | [Solution](./0881-boats-to-save-people/Solution.java) |
