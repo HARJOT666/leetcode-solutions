@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 153
+- **Total solved:** 154
 - **Easy:** 47
-- **Medium:** 99
+- **Medium:** 100
 - **Hard:** 7
 
 ## Problems
@@ -54,6 +54,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0130 | [Surrounded Regions](./0130-surrounded-regions/README.md) | Medium | Java | [Solution](./0130-surrounded-regions/Solution.java) |
 | 0131 | [Palindrome Partitioning](./0131-palindrome-partitioning/README.md) | Medium | Java | [Solution](./0131-palindrome-partitioning/Solution.java) |
 | 0133 | [Clone Graph](./0133-clone-graph/README.md) | Medium | Java | [Solution](./0133-clone-graph/Solution.java) |
+| 0134 | [Gas Station](./0134-gas-station/README.md) | Medium | Java | [Solution](./0134-gas-station/Solution.java) |
 | 0135 | [Candy](./0135-candy/README.md) | Hard | Java | [Solution](./0135-candy/Solution.java) |
 | 0136 | [Single Number](./0136-single-number/README.md) | Easy | Java | [Solution](./0136-single-number/Solution.java) |
 | 0150 | [Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | Java | [Solution](./0150-evaluate-reverse-polish-notation/Solution.java) |

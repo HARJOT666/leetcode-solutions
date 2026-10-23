@@ -2843,5 +2843,22 @@
     "url": "https://leetcode.com/problems/candy/",
     "submissionId": "2179550094",
     "updatedAt": "2026-10-23T10:00:04.339Z"
+  },
+  {
+    "number": "0134",
+    "title": "Gas Station",
+    "slug": "gas-station",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0134-gas-station",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/gas-station/",
+    "submissionId": "2179567978",
+    "updatedAt": "2026-10-23T10:26:58.645Z"
   }
 ]
