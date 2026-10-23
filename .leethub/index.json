@@ -2878,5 +2878,24 @@
     "url": "https://leetcode.com/problems/dota2-senate/",
     "submissionId": "2179598589",
     "updatedAt": "2026-10-23T11:14:33.291Z"
+  },
+  {
+    "number": "0067",
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0067-add-binary",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/add-binary/",
+    "submissionId": "2179640611",
+    "updatedAt": "2026-10-23T12:26:35.167Z"
   }
 ]
