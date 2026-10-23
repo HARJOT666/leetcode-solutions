@@ -2860,5 +2860,23 @@
     "url": "https://leetcode.com/problems/gas-station/",
     "submissionId": "2179567978",
     "updatedAt": "2026-10-23T10:26:58.645Z"
+  },
+  {
+    "number": "0649",
+    "title": "Dota2 Senate",
+    "slug": "dota2-senate",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Greedy",
+      "Queue"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0649-dota2-senate",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/dota2-senate/",
+    "submissionId": "2179598589",
+    "updatedAt": "2026-10-23T11:14:33.291Z"
   }
 ]

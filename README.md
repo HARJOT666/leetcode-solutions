@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 154
+- **Total solved:** 155
 - **Easy:** 47
-- **Medium:** 100
+- **Medium:** 101
 - **Hard:** 7
 
 ## Problems
@@ -115,6 +115,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0583 | [Delete Operation for Two Strings](./0583-delete-operation-for-two-strings/README.md) | Medium | Java | [Solution](./0583-delete-operation-for-two-strings/Solution.java) |
 | 0621 | [Task Scheduler](./0621-task-scheduler/README.md) | Medium | Java | [Solution](./0621-task-scheduler/Solution.java) |
 | 0643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md) | Easy | Java | [Solution](./0643-maximum-average-subarray-i/Solution.java) |
+| 0649 | [Dota2 Senate](./0649-dota2-senate/README.md) | Medium | Java | [Solution](./0649-dota2-senate/Solution.java) |
 | 0654 | [Maximum Binary Tree](./0654-maximum-binary-tree/README.md) | Medium | Java | [Solution](./0654-maximum-binary-tree/Solution.java) |
 | 0658 | [Find K Closest Elements](./0658-find-k-closest-elements/README.md) | Medium | Java | [Solution](./0658-find-k-closest-elements/Solution.java) |
 | 0680 | [Valid Palindrome II](./0680-valid-palindrome-ii/README.md) | Easy | Java | [Solution](./0680-valid-palindrome-ii/Solution.java) |
