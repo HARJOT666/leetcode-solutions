@@ -4,9 +4,9 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 
 ## Stats
 
-- **Total solved:** 156
+- **Total solved:** 157
 - **Easy:** 48
-- **Medium:** 101
+- **Medium:** 102
 - **Hard:** 7
 
 ## Problems
@@ -68,6 +68,7 @@ Automatically synced from [LeetCode](https://leetcode.com) Accepted submissions 
 | 0198 | [House Robber](./0198-house-robber/README.md) | Medium | Java | [Solution](./0198-house-robber/Solution.java) |
 | 0199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view/README.md) | Medium | Java | [Solution](./0199-binary-tree-right-side-view/Solution.java) |
 | 0200 | [Number of Islands](./0200-number-of-islands/README.md) | Medium | Java | [Solution](./0200-number-of-islands/Solution.java) |
+| 0201 | [Bitwise AND of Numbers Range](./0201-bitwise-and-of-numbers-range/README.md) | Medium | Java | [Solution](./0201-bitwise-and-of-numbers-range/Solution.java) |
 | 0202 | [Happy Number](./0202-happy-number/README.md) | Easy | Java | [Solution](./0202-happy-number/Solution.java) |
 | 0204 | [Count Primes](./0204-count-primes/README.md) | Medium | Java | [Solution](./0204-count-primes/Solution.java) |
 | 0206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | Easy | Java | [Solution](./0206-reverse-linked-list/Solution.java) |

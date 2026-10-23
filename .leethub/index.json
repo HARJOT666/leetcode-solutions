@@ -2897,5 +2897,21 @@
     "url": "https://leetcode.com/problems/add-binary/",
     "submissionId": "2179640611",
     "updatedAt": "2026-10-23T12:26:35.167Z"
+  },
+  {
+    "number": "0201",
+    "title": "Bitwise AND of Numbers Range",
+    "slug": "bitwise-and-of-numbers-range",
+    "difficulty": "Medium",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "language": "Java",
+    "langSlug": "java",
+    "path": "0201-bitwise-and-of-numbers-range",
+    "solutionFilename": "Solution.java",
+    "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+    "submissionId": "2179645472",
+    "updatedAt": "2026-10-23T12:34:43.644Z"
   }
 ]
